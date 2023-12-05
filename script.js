@@ -26,7 +26,6 @@ function displayResult(answer, options, question) {
 
     var optionsList = document.createElement('ul');
 
-    // Use a for loop instead of forEach for compatibility
     for (var i = 0; i < options.length; i++) {
         var listItem = document.createElement('li');
         listItem.textContent = options[i];
