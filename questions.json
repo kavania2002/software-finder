@@ -1,0 +1,4781 @@
+[
+  {
+    "question": "1. Which question no longer concerns the modern software engineer?",
+    "options": [
+      "Why does computer hardware cost so much? ",
+      "Why does software take a long time to finish? ",
+      "Why does it cost so much to develop a piece of software? ",
+      "Why can\u2019t software errors be removed from products prior to delivery? "
+    ],
+    "answer": "A. Why does computer hardware cost so much?"
+  },
+  {
+    "question": "2. Software is a product and can be manufactured using the same technologies used for other engineering artifacts",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. Software deteriorates rather than wears out because",
+    "options": [
+      "Software suffers from exposure to hostile environments ",
+      "Defects are more likely to arise after software has been used often ",
+      "Multiple change requests introduce errors in component interactions ",
+      "Software spare parts become harder to order "
+    ],
+    "answer": "C. Multiple change requests introduce errors in component interactions"
+  },
+  {
+    "question": "4. WebApps are a mixture of print publishing and software development, making their development outside the realm of software engineering practice.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. There are no real differences between creating WebApps and MobileApps",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. In its simplest form an external computing device may access cloud data services using a web browser.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Product line software developments depends the reuse of existing software components to provide software engineering leverage.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. Which of the items listed below is not one of the software engineering layers?",
+    "options": ["Process ", "Manufacturing ", "Methods ", "Tools "],
+    "answer": "B. Manufacturing"
+  },
+  {
+    "question": "9. Software engineering umbrella activities are only applied during the initial phases of software development projects.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "10. Which of these are the 5 generic software engineering framework activities?",
+    "options": [
+      "communication, planning, modeling, construction, deployment ",
+      "communication, risk management, measurement, production, reviewing ",
+      "analysis, designing, programming, debugging, maintenance ",
+      "analysis, planning, designing, programming, testing "
+    ],
+    "answer": "A. communication, planning, modeling, construction, deployment"
+  },
+  {
+    "question": "11. Planning ahead for software reuse reduce the cost and increases the value of the systems into which they are incorporated",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "12. The essence of software engineering practice might be described as understand the problem, plan a solution, carry out the plan, and examine the result for accuracy.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. In agile process models the only deliverable work product is the working program.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "14. A most software development projects are initiated to try to meet some business need.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. In general software only succeeds if its behavior is consistent with the objectives of its designers.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "16. Today the increased power of the personal computer has brought about an abandonment of the practice of team development of software.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "17. Most software continues to be custom built because",
+    "options": [
+      "Component reuse is common in the software world. ",
+      "Reusable components are too expensive to use. ",
+      "Software is easier to build without using someone else's components. ",
+      "Off-the-shelf software components are unavailable in many application domains. "
+    ],
+    "answer": "D. Off-the-shelf software components are unavailable in many application domains."
+  },
+  {
+    "question": "18. The nature of software applications can be characterized by their information",
+    "options": ["Complexity ", "Content ", "Determinacy ", "both b and c "],
+    "answer": "D. both b and c"
+  },
+  {
+    "question": "19. Modern software applications are so complex that it is hard to develop mutually exclusive category names.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "20. The so called \"new economy\" that gripped commerce and finance during the 1990s died and no longer influences decisions made by businesses and software engineers.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "21. The functionality of most computer systems does not need to be enhanced the lifetime of the system.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "22. Change cannot be easily accommodated in most software systems, unless the system was designed with change in mind.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Process models are described as agile because they",
+    "options": [
+      "Eliminate the need for cumbersome documentation ",
+      "Emphasize maneuverability and adaptability ",
+      "Do not waste development time on planning activities ",
+      "Make extensive use of prototype creation "
+    ],
+    "answer": "B. Emphasize maneuverability and adaptability"
+  },
+  {
+    "question": "2. Which of these terms are level names in the Capability Maturity Model?",
+    "options": [
+      "Performed ",
+      "Repeated ",
+      "Reused ",
+      "Optimized ",
+      "both a and d "
+    ],
+    "answer": "E. both a and d"
+  },
+  {
+    "question": "3. The best software process model is one that has been created by the people who will actually be doing the work.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "4. Which of the following are recognized process flow types?",
+    "options": [
+      "Concurrent process flow ",
+      "Iterative process flow ",
+      "Linear process flow ",
+      "Spiral process flow ",
+      "both b and c "
+    ],
+    "answer": "E. both b and c"
+  },
+  {
+    "question": "5. The communication activity is best handled for small projects using six distinct actions (inception, elicitation, elaboration, negotiation, specification, validation).",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. A good software development team always uses the same task set for every project to insure high quality work products",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. Software processes can be constructed out of pre-existing software patterns to best meet the needs of a software project",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. Which of these are standards for assessing software processes?",
+    "options": ["SEI ", "SPICE ", "ISO 9000 ", "ISO 9001 ", "both b and d "],
+    "answer": "E. both b and d"
+  },
+  {
+    "question": "1. The rapid application development model is",
+    "options": [
+      "Another name for component-based development ",
+      "A useful approach when a customer cannot define requirements clearly. ",
+      "A high speed adaptation of the linear sequential model. ",
+      "All of the above. "
+    ],
+    "answer": "C. A high speed adaptation of the linear sequential model."
+  },
+  {
+    "question": "2. In the Unified Process model requirements are determined iteratively and may span more than one phase of the process.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. The waterfall model of software development is",
+    "options": [
+      "A reasonable approach when requirements are well defined. ",
+      "A good approach when a working program is required quickly. ",
+      "The best approach to use for projects with large development teams ",
+      "An old fashioned model that is rarely used any more "
+    ],
+    "answer": "A. A reasonable approach when requirements are well defined."
+  },
+  {
+    "question": "4. The incremental model of software development is",
+    "options": [
+      "A reasonable approach when requirements are well defined. ",
+      "A good approach when a working core product is required quickly. ",
+      "The best approach to use for projects with large development teams ",
+      "A revolutionary model that is not used for commercial products. "
+    ],
+    "answer": "B. A good approach when a working core product is required quickly."
+  },
+  {
+    "question": "5. Evolutionary software process models",
+    "options": [
+      "Are iterative in nature ",
+      "Can easily accommodate product requirements changes ",
+      "Do not generally produce throwaway systems ",
+      "All of the above. "
+    ],
+    "answer": "D. All of the above."
+  },
+  {
+    "question": "6. The prototyping model of software development is",
+    "options": [
+      "A reasonable approach when requirements are well defined. ",
+      "A useful approach when a customer cannot define requirements clearly. ",
+      "The best approach to use for projects with large development teams. ",
+      "A risky model that rarely produces a meaningful product. "
+    ],
+    "answer": "B. A useful approach when a customer cannot define requirements clearly."
+  },
+  {
+    "question": "7. The spiral model of software development",
+    "options": [
+      "Ends with the delivery of the software product. ",
+      "Is more chaotic than the incremental model. ",
+      "Includes project risks evaluation during each iteration ",
+      "All of the above "
+    ],
+    "answer": "C. Includes project risks evaluation during each iteration"
+  },
+  {
+    "question": "8. The concurrent development model is",
+    "options": [
+      "Another name for concurrent engineering. ",
+      "Defines events that trigger engineering activity state transitions. ",
+      "Only used for development of parallel or distributed systems. ",
+      "Used whenever a large number of change requests are anticipated. ",
+      "Both a and b "
+    ],
+    "answer": "E. Both a and b"
+  },
+  {
+    "question": "9. The component-based development model is",
+    "options": [
+      "Only appropriate for computer hardware design ",
+      "Not able to support the development of reusable components. ",
+      "Dependent on object technologies for support. ",
+      "Not cost effective by known quantifiable software metrics "
+    ],
+    "answer": "C. Dependent on object technologies for support."
+  },
+  {
+    "question": "10. The formal methods model of software development makes use of mathematical methods to",
+    "options": [
+      "Define the specification for computer-based systems ",
+      "Develop defect free computer-based systems. ",
+      "Verify the correctness of computer-based systems. ",
+      "All of the above. "
+    ],
+    "answer": "D. All of the above."
+  },
+  {
+    "question": "11. Which of these is not one of the phase names defined by the Unified Process model for software development?",
+    "options": [
+      "Inception phase ",
+      "Elaboration phase ",
+      "Construction phase ",
+      "Validation phase "
+    ],
+    "answer": "D. Validation phase"
+  },
+  {
+    "question": "12. Which of these is not a characteristic of Personal Software Process?",
+    "options": [
+      "Emphasizes personal measurement of work product. ",
+      "Practitioner requires careful supervision by the project manager. ",
+      "Individual practitioner is responsible for estimating and scheduling. ",
+      "Practitioner is empowered to control quality of software work products. "
+    ],
+    "answer": "B. Practitioner requires careful supervision by the project manager."
+  },
+  {
+    "question": "13. Which of these are objectives of Team Software Process?",
+    "options": [
+      "Accelerate software process improvement ",
+      "Allow better time management by highly trained professionals ",
+      "Build self-directed software teams ",
+      "Show managers how to reduce costs and sustain quality ",
+      "Both b and c "
+    ],
+    "answer": "E. Both b and c"
+  },
+  {
+    "question": "14. Process technology tools allow software organizations to compress schedules by skipping unimportant activities.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "15. It is generally accepted that one cannot have weak software processes and create high quality end products.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. It is not possible to build software that meets the customers' needs today and exhibits the quality characteristics that will enable it to be extended tomorrow.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. Which of the following traits need to exist among the members of an agile software team?",
+    "options": [
+      "Competence ",
+      "Decision-making ability ",
+      "Mutual trust and respect ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "3. What are the three framework activities for the Adaptive Software Development (ASD) process model?",
+    "options": [
+      "Analysis, design, coding ",
+      "Feasibility study, functional model iteration, implementation ",
+      "Requirements gathering, adaptive cycle planning, iterative development ",
+      "Speculation, collaboration, learning "
+    ],
+    "answer": "D. Speculation, collaboration, learning"
+  },
+  {
+    "question": "4. Agility is nothing more than the ability of a project team to respond rapidly to change",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. Which of the following is not necessary to apply agility to a software process?",
+    "options": [
+      "Eliminate the use of project planning and testing ",
+      "Only essential work products are produced ",
+      "Process allows team to streamline tasks ",
+      "Uses incremental product delivery strategy "
+    ],
+    "answer": "A. Eliminate the use of project planning and testing"
+  },
+  {
+    "question": "6. How do you create agile processes to manage unpredictability?",
+    "options": [
+      "Requirements gathering must be conducted very carefully ",
+      "Risk analysis must be conducted before planning takes place ",
+      "Software increments must be delivered in short time periods ",
+      "Software processes must adapt to changes incrementally ",
+      "Both c and d "
+    ],
+    "answer": "E. Both c and d"
+  },
+  {
+    "question": "7. In agile software processes the highest priorities is to satisfy the customer through early and continuous delivery of valuable software.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. In agile development it is more important to build software that meets the customers\u2019 needs today than worry about features that might be needed in the future.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. What are the four framework activities found in the Extreme Programming (XP) process model?",
+    "options": [
+      "analysis, design, coding, testing ",
+      "planning, analysis, design, coding ",
+      "planning, analysis, coding, testing ",
+      "planning, design, coding, testing "
+    ],
+    "answer": "D. planning, design, coding, testing"
+  },
+  {
+    "question": "10. All agile process models conform to a greater or lesser degree to the principles stated in the \u201cManifesto for Agile Software Development\u201d.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. Which is not one of the key questions that is answered by each team member at each daily Scrum meeting?",
+    "options": [
+      "What did you do since the last meeting? ",
+      "What obstacles are you creating? ",
+      "What is the cause of the problem you are encountering? ",
+      "What do you plan to accomplish be the next team meeting? "
+    ],
+    "answer": "B. What obstacles are you creating?"
+  },
+  {
+    "question": "12. The Dynamic Systems Development Method (DSDM) suggests a philosophy that is based on the Pareto principle (80% of the application can be delivered in 20% of the time required to build the complete application).",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. Agile Modeling (AM) provides guidance to practitioner during which of these software tasks?",
+    "options": ["Analysis ", "Design ", "Coding ", "Testing ", "Both a and b "],
+    "answer": "E. Both a and b"
+  },
+  {
+    "question": "14. Agile Unified Process uses the classic UP phased activities (inception, elaboration, construction, transition) to help the team visualize the overall process flow",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Human aspects of software engineering are not relevant in today\u2019s agile process models.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. Which of the following is not an important trait of an effective software engineer?",
+    "options": [
+      "Attentive to detail ",
+      "Brutally honest ",
+      "Follows process rule dogmatically ",
+      "Resilient under pressure "
+    ],
+    "answer": "C. Follows process rule dogmatically"
+  },
+  {
+    "question": "3. Group communication and collaboration are as important as the technical skills of an individual team member to the success of a team.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "4. Teams with diversity in the individual team member skill sets tend to be more effective than teams without this diversity",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. Which of the following can contribute to team toxicity?",
+    "options": [
+      "Frenzied work atmosphere ",
+      "Inadequate budget ",
+      "Poorly coordinated software process ",
+      "Unclear definition of team roles ",
+      "a, b, d "
+    ],
+    "answer": "E. a, b, d"
+  },
+  {
+    "question": "6. Software engineering team structure is independent of problem complexity and size of the expected software products.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. Agile teams are allowed to self-organize and make their own technical decisions.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. In XP a metaphor is used as a device to facilitate communications among customers, team members, and managers?",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Using an established social media platform negates the need to be concerned about privacy or security.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "10. Use of cloud services can speed up information sharing among software team members?",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. In collaborative development environments, metrics are used to reward and punish team members.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Which of these factors complicate decision-making by global software teams",
+    "options": [
+      "Complexity of problem ",
+      "Different views of the problem ",
+      "Law of unintended consequences ",
+      "Risk associated with decision ",
+      "All of the above. "
+    ],
+    "answer": "E. All of the above."
+  },
+  {
+    "question": "1. Software engineers collaborate with customers to define which of the following?",
+    "options": [
+      "Customer visible usage scenarios ",
+      "Important software features ",
+      "System inputs and outputs ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "2. Everyone on the software team should be involved in the planning activity so that we can",
+    "options": [
+      "reduce the granularity of the plan ",
+      "analyze requirements in depth ",
+      "get all team members to \"sign up\" to the plan ",
+      "begin design "
+    ],
+    "answer": "C. get all team members to \"sign up\" to the plan"
+  },
+  {
+    "question": "3. What role(s) do user stories play in agile planning?",
+    "options": [
+      "Define useful software features and functions delivered to end-users ",
+      "Determine a schedule used to deliver each software increment ",
+      "Provide a substitute to performing detailed scheduling of activities ",
+      "Used to estimate the effort required build the current increment ",
+      "both a and d "
+    ],
+    "answer": "D. Used to estimate the effort required build the current increment"
+  },
+  {
+    "question": "4. Which of the following activities is not one of the four things that need to be accomplished by the generic planning task set?",
+    "options": [
+      "Develop overall project strategy ",
+      "Identify the functionality to deliver in each software increment ",
+      "Create a detailed schedule for the complete software project ",
+      "Devise a means of tracking progress on a regular basis "
+    ],
+    "answer": "C. Create a detailed schedule for the complete software project"
+  },
+  {
+    "question": "5. Analysis models depict software in which three representations?",
+    "options": [
+      "architecture, interface, component ",
+      "cost, risk, schedule ",
+      "information, function, behavior ",
+      "None of the above "
+    ],
+    "answer": "C. information, function, behavior"
+  },
+  {
+    "question": "6. The customer can directly observe both the difference between the internal quality of a design and its external quality?",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. Teams using agile software practices never create models.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "8. Many of the tasks from the generic task sets for analysis modeling and design can be conducted in parallel with one another.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. A successful test is one that discovers at least one as-yet undiscovered error.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "10. Which of the following are tasks in the generic task set for construction?",
+    "options": [
+      "Build a software component ",
+      "Create a user interface ",
+      "Unit test the component ",
+      "Assess the quality of the component ",
+      "both a and c "
+    ],
+    "answer": "E. both a and c"
+  },
+  {
+    "question": "11. Software engineering principles have about a three year half-life",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Which of the following is not one of core principles of software engineering practice?",
+    "options": [
+      "All design should be as simple as possible, but no simpler ",
+      "A software system exists only to provide value to its users. ",
+      "Pareto principle (20% of any product requires 80% of the effort). ",
+      "Remember that you produce others will consume "
+    ],
+    "answer": "C. Pareto principle (20% of any product requires 80% of the effort)."
+  },
+  {
+    "question": "13. Every communication activity should have a facilitator to make sure that the customer is not allowed to dominate the proceedings",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "14. The agile view of iterative customer communication and collaboration is applicable to all software engineering practice.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. One reason to involve everyone on the software team in the planning activity is to",
+    "options": [
+      "adjust the granularity of the plan ",
+      "control feature creep ",
+      "get all team members to \u201csign up\u201d to the plan ",
+      "understand the problem scope "
+    ],
+    "answer": "C. get all team members to \u201csign up\u201d to the plan"
+  },
+  {
+    "question": "16. Project plans should not be changed once they are adopted by a team",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "17. Requirements models depict software in which three domains?",
+    "options": [
+      "architecture, interface, component ",
+      "cost, risk, schedule ",
+      "information, function, behavior ",
+      "None of the above "
+    ],
+    "answer": "C. information, function, behavior"
+  },
+  {
+    "question": "18. The design model should be traceable to the requirements model?",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "19. Teams using agile software practices do not generally create models",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "20. Which of the following is not one of the principles of good coding?",
+    "options": [
+      "Create unit tests before you begin coding ",
+      "Create unit tests before you begin coding ",
+      "Refractor the code after you complete the first coding pass ",
+      "Write self-documenting code, not program documentation "
+    ],
+    "answer": "C. Refractor the code after you complete the first coding pass"
+  },
+  {
+    "question": "21. A successful test I ones that discovers at least one as-yet undiscovered error",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "22. Which of the following are valid reasons for collecting customer feedback concerning delivered software?",
+    "options": [
+      "Allows developers to make changes to the delivered increment ",
+      "Delivery schedule can be revised to reflect changes ",
+      "Developers can identify changes to incorporate into next increment ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "23. Larger programming teams are always more productive than smaller teams",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. Software engineers do not need to consider hardware when designing a computer-based system.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. Which of the following can be elements of computer-based systems?",
+    "options": [
+      "documentation ",
+      "software ",
+      "people ",
+      "hardware ",
+      "all of the above "
+    ],
+    "answer": "E. all of the above"
+  },
+  {
+    "question": "3. The system engineering process usually begins with the",
+    "options": [
+      "detailed view ",
+      "domain view ",
+      "element view ",
+      "world view "
+    ],
+    "answer": "D. world view"
+  },
+  {
+    "question": "4. To construct a system model the engineer should consider which of the following restraining factors?",
+    "options": [
+      "assumptions ",
+      "budget ",
+      "constraints ",
+      "schedule ",
+      "both a and c "
+    ],
+    "answer": "E. both a and c"
+  },
+  {
+    "question": "5. By following modern system engineering practices simulation of reactive systems is no longer necessary.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. During business process engineering, three different architectures are examined.",
+    "options": [
+      "applications, data, technology infrastructure ",
+      "communications, organization, financial infrastructure ",
+      "network, database, reporting structure ",
+      "systems, requirements, data structure "
+    ],
+    "answer": "A. applications, data, technology infrastructure"
+  },
+  {
+    "question": "7. Which elements of business processing engineering are the responsibilities of the software engineer?",
+    "options": [
+      "business area analysis ",
+      "business system design ",
+      "construction and integration ",
+      "information strategy planning ",
+      "both b and c "
+    ],
+    "answer": "E. both b and c"
+  },
+  {
+    "question": "8. The goal of product engineering is to translate the customer's desire for a set of defined capabilities into a working product.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. The architecture components for product engineering are",
+    "options": [
+      "data, hardware, software, people ",
+      "data, documentation, hardware, software ",
+      "data, hardware, software, procedures ",
+      "documentation, hardware, people, procedures "
+    ],
+    "answer": "A. data, hardware, software, people"
+  },
+  {
+    "question": "10. The top level of the hierarchical model of a system is known as the",
+    "options": ["AFD ", "DFD ", "SCD ", "SFD "],
+    "answer": "C. SCD"
+  },
+  {
+    "question": "11. The system model template contains which of the following elements",
+    "options": ["input ", "output ", "user interface ", "all of the above "],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "12. UML notations that can be used to model the hardware and software elements of a system are",
+    "options": [
+      "Activity diagrams ",
+      "Class diagrams ",
+      "Deployment diagrams ",
+      "Use-case diagrams ",
+      "a, b, and c "
+    ],
+    "answer": "E. a, b, and c"
+  },
+  {
+    "question": "1. It is relatively common for different customers to propose conflicting requirements, each arguing that his or her version is the right one.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "2. The system specification describes the",
+    "options": [
+      "Function, performance and constraints of a computer-based system ",
+      "implementation of each allocated system ",
+      "element software architecture ",
+      "time required for system simulation "
+    ],
+    "answer": "A. Function, performance and constraints of a computer-based system"
+  },
+  {
+    "question": "3. The best way to conduct a requirements validation review is to",
+    "options": [
+      "examine the system model for errors ",
+      "have the customer look over the requirements ",
+      "send them to the design team and see if they have any concerns ",
+      "use a checklist of questions to examine each requirement "
+    ],
+    "answer": "D. use a checklist of questions to examine each requirement"
+  },
+  {
+    "question": "4. The use of traceability tables helps to",
+    "options": [
+      "debug programs following the detection of run-time errors ",
+      "determine the performance of algorithm implementations ",
+      "identify, control, and track requirements changes ",
+      "none of the above "
+    ],
+    "answer": "C. identify, control, and track requirements changes"
+  },
+  {
+    "question": "5. The job of the requirements engineer is to categorize all stakeholder information in a way that allows decision makers to choose an internally consistent set of requirements.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. The nature of collaboration is such that all system requirements are defined by consensus of a committee of customers and developers.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. Which of following is not a UML diagram used creating a system analysis model?",
+    "options": [
+      "activity diagram ",
+      "class diagram ",
+      "dataflow diagram ",
+      "state diagram "
+    ],
+    "answer": "C. dataflow diagram"
+  },
+  {
+    "question": "8. Requirements engineering is a generic process that does not vary from one software project to another.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. During project inception the intent of the of the tasks are to determine",
+    "options": [
+      "basic problem understanding ",
+      "nature of the solution needed ",
+      "people who want a solution ",
+      "none of the above ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "10. Three things that make requirements elicitation difficult are problems of",
+    "options": [
+      "budgeting ",
+      "scope ",
+      "understanding ",
+      "volatility ",
+      "b, c, d "
+    ],
+    "answer": "E. b, c, d"
+  },
+  {
+    "question": "11. A stakeholder is anyone who will purchase the completed software system under development",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. It is relatively common for different customers to propose conflicting requirements, each arguing that his or her version is the right one.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. Which of the following is not one of the context-free questions that would be used during project inception?",
+    "options": [
+      "What will be the economic benefit from a good solution? ",
+      "Who is behind the request for work? ",
+      "Who will pay for the work? ",
+      "Who will use the solution? "
+    ],
+    "answer": "C. Who will pay for the work?"
+  },
+  {
+    "question": "14. Non-functional requirements can be safely ignored in modern software development projects",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "15. In collaborative requirements gathering the facilitator",
+    "options": [
+      "arranges the meeting place ",
+      "can not be a customer ",
+      "controls the meeting ",
+      "must be an outsider "
+    ],
+    "answer": "C. controls the meeting"
+  },
+  {
+    "question": "16. Which of the following is not one of the requirement classifications used in Quality Function Deployment (QFD)?",
+    "options": ["exciting ", "expected ", "mandatory ", "normal "],
+    "answer": "C. mandatory"
+  },
+  {
+    "question": "17. The work products produced during requirement elicitation will vary depending on the",
+    "options": [
+      "size of the budget ",
+      "size of the product being built. ",
+      "software process being used. ",
+      "stakeholders needs. ",
+      "both a and b "
+    ],
+    "answer": "E. both a and b"
+  },
+  {
+    "question": "18. User stories are complete descriptions the user needs and include the non-functional requirements for a software increment.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "19. Developers and customers create use-cases to help the software team understand how different classes of end-users will use functions.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "20. Use-case actors are always people, never system devices.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "21. The result of the requirements engineering task is an analysis model that defines which of the following problem domain(s)?",
+    "options": [
+      "information ",
+      "functional ",
+      "behavioral ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "22. Analysis patterns facilitate the transformation of the analysis model into a design model by suggesting reliable solutions to common problems.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "23. In agile process models requirements engineering and design activities are interleaved.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "24. In win-win negotiation, the customer\u2019s needs are met even though the developer\u2019s need may not be.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "25. In requirements validation the requirements model is reviewed to ensure its technical feasibility",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "26. The most common reason for software project failure is lack of functionality",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. The data dictionary contains descriptions of each software",
+    "options": [
+      "control item ",
+      "data object ",
+      "diagram ",
+      "notation ",
+      "both a and b "
+    ],
+    "answer": "E. both a and b"
+  },
+  {
+    "question": "2. Which of these is not an element of an object-oriented analysis model?",
+    "options": [
+      "Behavioral elements ",
+      "Class-based elements ",
+      "Data elements ",
+      "Scenario-based elements "
+    ],
+    "answer": "C. Data elements"
+  },
+  {
+    "question": "3. In analysis models the only data objects that need representation are those that will be implemented using software classes.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. The values that are assigned to an object's attributes make that object unique.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. The relationships shown in a data model must be classified to show their",
+    "options": [
+      "cardinality ",
+      "directionality ",
+      "modality ",
+      "probability ",
+      "both a and c "
+    ],
+    "answer": "E. both a and c"
+  },
+  {
+    "question": "6. The entity relationship diagram",
+    "options": [
+      "depicts relationships between data objects ",
+      "depicts functions that transform the data flow ",
+      "indicates how data are transformed by the system ",
+      "indicates system reactions to external events "
+    ],
+    "answer": "A. depicts relationships between data objects"
+  },
+  {
+    "question": "7. A generalized description of a collection of similar objects is a",
+    "options": ["class ", "instance ", "subclass ", "super class "],
+    "answer": "A. class"
+  },
+  {
+    "question": "8. Operations are object procedures that are invoked when an object receives a message",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. The data flow diagram",
+    "options": [
+      "depicts relationships between data objects ",
+      "depicts functions that transform the data flow ",
+      "indicates how data are transformed by the system ",
+      "indicates system reactions to external events ",
+      "both b and c "
+    ],
+    "answer": "E. both b and c"
+  },
+  {
+    "question": "10. Attributes cannot be defined for a class until design has been completed.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "11. Events occur whenever a(n)",
+    "options": [
+      "actor and the OO system exchange information ",
+      "class operation is invoked ",
+      "messages are passed between objects ",
+      "all of the above "
+    ],
+    "answer": "A. actor and the OO system exchange information"
+  },
+  {
+    "question": "12. The state diagram",
+    "options": [
+      "depicts relationships between data objects ",
+      "depicts functions that transform the data flow ",
+      "indicates how data are transformed by the system ",
+      "indicates system reactions to external events "
+    ],
+    "answer": "D. indicates system reactions to external events"
+  },
+  {
+    "question": "1. One or more attributes of a data object must be defined as a key to allow the location of an instance of the data object.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "2. The entity relationship diagram",
+    "options": [
+      "Depicts relationships between data objects ",
+      "Depicts functions that transform the data flow ",
+      "Indicates how data are transformed by the system ",
+      "Indicates system reactions to external events "
+    ],
+    "answer": "A. Depicts relationships between data objects"
+  },
+  {
+    "question": "3. Which of the following should be considered as candidate objects in a problem space?",
+    "options": ["Events ", "People ", "Structures ", "all of the above "],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "4. Attributes are chosen for an object by examining the problem statement and identifying the entities that appear to be related",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. Which of the following is not one of the broad categories used to classify operations?",
+    "options": [
+      "Computation ",
+      "Data manipulation ",
+      "Event monitors ",
+      "Transformers "
+    ],
+    "answer": "D. Transformers"
+  },
+  {
+    "question": "6. Which of the following items does not appear on a CRC card?",
+    "options": [
+      "Class collaborators ",
+      "Class name ",
+      "Class reliability ",
+      "Class responsibilities "
+    ],
+    "answer": "C. Class reliability"
+  },
+  {
+    "question": "7. Class responsibilities are defined by",
+    "options": [
+      "Its attributes only ",
+      "its collaborators ",
+      "its operations only ",
+      "Both its attributes and operations "
+    ],
+    "answer": "D. Both its attributes and operations"
+  },
+  {
+    "question": "8. An analysis package involves the categorization of analysis model elements into useful groupings.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Which of these is not an element of a requirements model?",
+    "options": [
+      "Behavioral elements ",
+      "Class-based elements ",
+      "Data elements ",
+      "Scenario-based elements "
+    ],
+    "answer": "C. Data elements"
+  },
+  {
+    "question": "10. Which of the following is not an objective for building a requirements model?",
+    "options": [
+      "define set of software requirements that can be validated ",
+      "describe customer requirements ",
+      "develop an abbreviated solution for the problem ",
+      "establish basis for software design "
+    ],
+    "answer": "C. develop an abbreviated solution for the problem"
+  },
+  {
+    "question": "11. Object-oriented domain analysis is concerned with the identification and specification of reusable capabilities within an application domain.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "12. In structured analysis models focus on the structure of the classes defined for a system along with their interactions.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. Creation and refinement of use cases if an important part of scenario-based modeling.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "14. It is important to consider alternative actor interactions when creating a preliminary use case.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "15. Brainstorming is one technique that may be used to derive a complete set of use case exceptions.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "16. In many cases there is no need to create a graphical representation of a usage scenario.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "17. UML activity diagrams are useful in representing which analysis model elements?",
+    "options": [
+      "Behavioral elements ",
+      "Class-based elements ",
+      "Flow-based elements ",
+      "Scenario-based elements "
+    ],
+    "answer": "D. Scenario-based elements"
+  },
+  {
+    "question": "18. UML swimnlane diagrams allow you to represent the flow of activities by showing the actors having responsibility for creating each data element.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. Which of the following should be considered as candidate objects in a problem space?",
+    "options": ["events ", "people ", "structures ", "all of the above "],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "2. In the grammatical parse of a processing narrative the nouns become object candidates in the analysis model.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. Attributes are chosen for an object by examining the problem statement and identifying the entities that appear to be related.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Which of the following is not one of the broad categories used to classify operations?",
+    "options": [
+      "computation ",
+      "data manipulation ",
+      "event monitors ",
+      "transformers "
+    ],
+    "answer": "D. transformers"
+  },
+  {
+    "question": "5. Collaborators in CRC modeling are those classes needed to fulfill a responsibility on another card.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. Which of the following items does not appear on a CRC card?",
+    "options": [
+      "class collaborators ",
+      "class name ",
+      "class reliability ",
+      "class responsibilities "
+    ],
+    "answer": "C. class reliability"
+  },
+  {
+    "question": "7. Class responsibilities are defined by",
+    "options": [
+      "its attributes only ",
+      "its collaborators ",
+      "its operations only ",
+      "both its attributes and operations "
+    ],
+    "answer": "D. both its attributes and operations"
+  },
+  {
+    "question": "8. A stereotype is the basis for class reuse in UML modeling.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "9. An analysis package involves the categorization of analysis model elements into useful groupings.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. The data flow diagram",
+    "options": [
+      "Depicts relationships between data objects ",
+      "Depicts functions that transform the data flow ",
+      "Indicates how data are transformed by the system ",
+      "Indicates system reactions to external events ",
+      "Both b and c "
+    ],
+    "answer": "E. Both b and c"
+  },
+  {
+    "question": "2. Control flow diagrams are",
+    "options": [
+      "Needed to model event driven systems ",
+      "Required for all systems ",
+      "Used in place of data flow diagrams. ",
+      "Used to represent system behavior. "
+    ],
+    "answer": "A. Needed to model event driven systems"
+  },
+  {
+    "question": "3. The control specification represents the system behavior using UML sequence and state diagrams",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "4. The data flow diagram must be augmented by min-spec that can serve as a guide the design of the software component that will implement the process",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. The behavior modeling is only used in the analysis of real-time systems.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. For purposes of behavior modeling an event occurs whenever",
+    "options": [
+      "a state and process exchange information. ",
+      "the system an actor exchange information. ",
+      "two actors exchange information. ",
+      "two objects exchange information. "
+    ],
+    "answer": "B. the system an actor exchange information."
+  },
+  {
+    "question": "7. For purposes of behavior modeling a state is any",
+    "options": [
+      "consumer or producer of data ",
+      "data object hierarchy ",
+      "observable mode of behavior. ",
+      "well defined process. "
+    ],
+    "answer": "C. observable mode of behavior."
+  },
+  {
+    "question": "8. The state transition diagram",
+    "options": [
+      "depicts relationships between data objects ",
+      "depicts functions that transform the data flow ",
+      "indicates how data are transformed by the system ",
+      "indicates system reactions to external events "
+    ],
+    "answer": "D. indicates system reactions to external events"
+  },
+  {
+    "question": "9. The UML sequence diagram shows the order in which system events are processed.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "10. Analysis patterns are discovered, they are not explicitly created.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. It is not possible to justify the time required for mobile app requirements analysis.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Which is not one of the analysis activities that is used to create a complete analysis model?",
+    "options": [
+      "Configuration analysis ",
+      "Content analysis ",
+      "Functional analysis ",
+      "Market analysis "
+    ],
+    "answer": "D. Market analysis"
+  },
+  {
+    "question": "13. Content objects are extracted from use cases by examining the scenario description for direct or indirect content references",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "14. What are the elements of a WebApp interaction model?",
+    "options": [
+      "activity diagrams, sequence diagrams, state diagrams, interface prototype ",
+      "activity diagrams, collaboration diagrams, sequence diagrams, state diagrams ",
+      "use-cases, sequence diagrams, state diagrams, interface prototype ",
+      "use-cases, sequence diagrams, state diagrams, sequence diagrams "
+    ],
+    "answer": "C. use-cases, sequence diagrams, state diagrams, interface prototype"
+  },
+  {
+    "question": "15. UML activity diagrams can be used to represent the user observable functionality delivered by the WebApp as well as the operations contained in each analysis class.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "16. Configuration analysis focuses on the architecture of the user\u2019s web browsing environment.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. Which of the following are areas of concern in the design model?",
+    "options": [
+      "architecture ",
+      "data ",
+      "interfaces ",
+      "project scope ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "2. The importance of software design can be summarized in a single word",
+    "options": ["accuracy ", "complexity ", "efficiency ", "quality "],
+    "answer": "D. quality"
+  },
+  {
+    "question": "3. Which of these are characteristics of a good design?",
+    "options": [
+      "exhibits strong coupling between its modules ",
+      "implements all requirements in the analysis model ",
+      "includes test cases for all components ",
+      "provides a complete picture of the software ",
+      "b and d "
+    ],
+    "answer": "E. b and d"
+  },
+  {
+    "question": "4. Which of the following is not a characteristic common to all design methods?",
+    "options": [
+      "configuration management ",
+      "functional component representation ",
+      "quality assessment guidelines ",
+      "refinement heuristics "
+    ],
+    "answer": "A. configuration management"
+  },
+  {
+    "question": "5. What types of abstraction are used in software design?",
+    "options": [
+      "control ",
+      "data ",
+      "environmental ",
+      "procedural ",
+      "a, b, d "
+    ],
+    "answer": "E. a, b, d"
+  },
+  {
+    "question": "6. Which of the following can be used to represent the architectural design of a piece of software?",
+    "options": [
+      "Dynamic models ",
+      "Functional models ",
+      "Structural models ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "7. Design patterns are not applicable to the design of object-oriented software?",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "8. Since modularity is an important design goal it is not possible to have too many modules in a proposed design.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "9. Information hiding makes program maintenance easier by hiding data and procedure from unaffected parts of the program",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "10. Cohesion is a qualitative indication of the degree to which a module",
+    "options": [
+      "can be written more compactly ",
+      "focuses on just one thing. ",
+      "is able to complete its function in a timely manner. ",
+      "is connected to other modules and the outside world. "
+    ],
+    "answer": "B. focuses on just one thing."
+  },
+  {
+    "question": "11. Coupling is a qualitative indication of the degree to which a module",
+    "options": [
+      "can be written more compactly ",
+      "focuses on just one thing. ",
+      "is able to complete its function in a timely manner ",
+      "is connected to other modules and the outside world. "
+    ],
+    "answer": "D. is connected to other modules and the outside world."
+  },
+  {
+    "question": "12. When using structured design methodologies the process of stepwise refinement is unnecessary.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. Software designs are refactored to allow the creation of software that is easier to integrate, easier to test, and easier to maintain.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "14. Which of the following is not one of the five design class types",
+    "options": [
+      "Business domain classes ",
+      "Entity classes ",
+      "Process classes ",
+      "User interface classes "
+    ],
+    "answer": "B. Entity classes"
+  },
+  {
+    "question": "15. Which design model elements are used to depict a model of information represented from the user\u2019s view?",
+    "options": [
+      "Architectural design elements ",
+      "Component-level design elements ",
+      "Data design elements ",
+      "Interface design elements "
+    ],
+    "answer": "C. Data design elements"
+  },
+  {
+    "question": "16. Which design is equivalent to the floor plan of a house?",
+    "options": [
+      "Architectural design ",
+      "Component-level design ",
+      "Data design ",
+      "Interface design "
+    ],
+    "answer": "A. Architectural design"
+  },
+  {
+    "question": "17. Which design model is equivalent to the detailed drawings of the access points and external utilities for a house?",
+    "options": [
+      "Architectural design ",
+      "Component-level design ",
+      "Data design ",
+      "Interface design "
+    ],
+    "answer": "D. Interface design"
+  },
+  {
+    "question": "18. Which design model is equivalent to a set of detailed drawings for each room in a house?",
+    "options": [
+      "Architectural design ",
+      "Component-level design ",
+      "Data design ",
+      "Interface design "
+    ],
+    "answer": "B. Component-level design"
+  },
+  {
+    "question": "19. The deployment design elements specify the build order for the software components.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. The best representation of system architecture is an operational software prototype",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. The architectural representations can be an enabler for communication among project stakeholders",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. An architectural description is often documented using an architecture template.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. An architectural decision is often documented using an architecture decision description template.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. An architectural genre will often dictate the architectural approach that may used for the structure to be built.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. An architectural style encompasses which of the following elements?",
+    "options": [
+      "constraints ",
+      "set of components ",
+      "semantic models ",
+      "syntactic models ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "7. To determine the architectural style or combination of styles that best fits the proposed system, requirements engineering is used to uncover",
+    "options": [
+      "algorithmic complexity ",
+      "characteristics and constraints ",
+      "control and data ",
+      "design patterns "
+    ],
+    "answer": "B. characteristics and constraints"
+  },
+  {
+    "question": "8. Before an architectural pattern can be chosen for use in a specific system it must have a code implementation to facilitate its reuse.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "9. The criteria used to assess the quality of an architectural design should be based on system",
+    "options": [
+      "accessibility ",
+      "control ",
+      "data ",
+      "implementation ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "10. Software architectural considerations often interact with each other and moderate each other.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. Developer notes are not a reliable means of documenting architectural decisions",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. During process of modeling the system in context, systems that interact with the target system are represented as",
+    "options": [
+      "Peer-level systems ",
+      "Subordinate systems ",
+      "Superordinate systems ",
+      "Working systems ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "13. Once selected, archetypes always need to be refined further as architectural design proceeds.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "14. Which of the following is not an example of infrastructure components that may need to be integrated into the software architecture?",
+    "options": [
+      "Communications components ",
+      "Database components ",
+      "Interface components ",
+      "Memory management components "
+    ],
+    "answer": "C. Interface components"
+  },
+  {
+    "question": "15. In the architecture trade-off analysis method the architectural style should be described using the",
+    "options": [
+      "data flow view ",
+      "module view ",
+      "process view ",
+      "user view ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "16. A useful technique for evaluating the overall complexity of a proposed architecture is to look at the component",
+    "options": [
+      "cohesion ",
+      "flow dependencies ",
+      "sharing dependencies ",
+      "size ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "17. Software architects need to create consensus among software team members and other stakeholders.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "18. Pattern-based architectural reviews can be useful for project with short build cycles and volatile requirements.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "19. Static architectural conformance checking assesses whether or not the source code matches the user visible requirements",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "20. Architectural design has no role in agile software process models.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. In the context of object-oriented software engineering a component contains",
+    "options": [
+      "attributes and operations ",
+      "instances of each class ",
+      "roles for each actor (device or user) ",
+      "set of collaborating classes "
+    ],
+    "answer": "D. set of collaborating classes"
+  },
+  {
+    "question": "2. In traditional software engineering modules must serve in which of the following roles?",
+    "options": [
+      "Control component ",
+      "Infrastructure component ",
+      "Problem domain component ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "3. Software engineers always need to cerate components from scratch in order to meet customer expectations fully.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Which of the following is not one of the four principles used to guide component-level design?",
+    "options": [
+      "Dependency Inversion Principle ",
+      "Interface Segregation Principle ",
+      "Open-Closed Principle ",
+      "Parsimonious Complexity Principle "
+    ],
+    "answer": "D. Parsimonious Complexity Principle"
+  },
+  {
+    "question": "5. The use of stereotypes can help identify the nature of components at the detailed design level.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. Classes and components that exhibit functional, layer, or communicational cohesion are relatively easy to implement, test, and maintain.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Software coupling is a sign of poor architectural design and can always be avoided in every system.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "8. In component design elaboration requires which of the following elements to be describe in detail?",
+    "options": [
+      "Algorithms ",
+      "Attributes ",
+      "Interfaces ",
+      "Operations ",
+      "b, c, d "
+    ],
+    "answer": "E. b, c, d"
+  },
+  {
+    "question": "9. In component-level design persistent data sources refer to",
+    "options": [
+      "Component libraries ",
+      "Databases ",
+      "Files ",
+      "All of the above ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "10. WebApp content design at the component level focuses on content objects and the manner in which they interact.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "11. A WebApp functional architecture describes the key functional components and how they interact with each other.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "12. Component-level design for mobile apps is not any different from component-based design for Web apps.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. Which of these constructs is used in structured programming?",
+    "options": [
+      "branching ",
+      "condition ",
+      "repetition ",
+      "sequence ",
+      "b, c, d "
+    ],
+    "answer": "E. b, c, d"
+  },
+  {
+    "question": "14. In component-based software engineering, the development team examines the requirements to see which are amenable to composition, rather than construction, before beginning detailed design tasks.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. Which of the following is not one of the major activities of domain engineering?",
+    "options": ["analysis ", "construction ", "dissemination ", "validation "],
+    "answer": "D. validation"
+  },
+  {
+    "question": "16. Which of the following factors would not be considered during component qualification?",
+    "options": [
+      "application programming interface (API) ",
+      "development and integration tools required ",
+      "exception handling ",
+      "testing equipment required "
+    ],
+    "answer": "D. testing equipment required"
+  },
+  {
+    "question": "17. Which is the following is a technique used for component wrapping?",
+    "options": [
+      "black-box wrapping ",
+      "clear-box wrapping ",
+      "gray-box wrapping ",
+      "white-box wrapping "
+    ],
+    "answer": "B. clear-box wrapping"
+  },
+  {
+    "question": "18. Which of the following is not one of the issues that form a basis for design for reuse?",
+    "options": [
+      "object-oriented programming ",
+      "program templates ",
+      "standard data ",
+      "standard interface protocols "
+    ],
+    "answer": "A. object-oriented programming"
+  },
+  {
+    "question": "19. In a reuse environment, library queries are often characterized using the ________ element of the 3C Model.",
+    "options": ["concept ", "content ", "context ", "all of the above "],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "20. Which of these is a graphical notation for depicting procedural detail?",
+    "options": ["Box diagram ", "Decision table ", "ER diagram ", "Flowchart "],
+    "answer": "D. Flowchart"
+  },
+  {
+    "question": "21. A decision table should be used",
+    "options": [
+      "To document all conditional statements ",
+      "To guide the development of the project management plan ",
+      "Only when building an expert system ",
+      "When a complex set of conditions and actions appears in a component "
+    ],
+    "answer": "D. When a complex set of conditions and actions appears in a component"
+  },
+  {
+    "question": "22. A program design language (PDL) is often a",
+    "options": [
+      "Combination of programming constructs and narrative text ",
+      "Legitimate programming language in its own right ",
+      "Machine readable software development language ",
+      "Useful way to represent software architecture "
+    ],
+    "answer": "A. Combination of programming constructs and narrative text"
+  },
+  {
+    "question": "23. In the most general sense a component is a modular building block for computer software.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Which of the following interface design principles does not allow the user to remain in control of the interaction with a computer?",
+    "options": [
+      "allow interaction to interruptible ",
+      "allow interaction to be undoable ",
+      "hide technical internals from casual users ",
+      "only provide one rigidly defined method for accomplishing a task "
+    ],
+    "answer": "D. only provide one rigidly defined method for accomplishing a task"
+  },
+  {
+    "question": "2. Which of the following interface design principles reduce the user's memory load?",
+    "options": [
+      "define intuitive shortcuts ",
+      "disclose information in a progressive fashion ",
+      "establish meaningful defaults ",
+      "provide an on-line tutorial ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "3. The reason for reducing the user's memory load is make his or her interaction with the computer quicker to complete.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Interface consistency implies that",
+    "options": [
+      "each application should have its own distinctive look and feel ",
+      "input mechanisms remain the same throughout the application ",
+      "navigational methods are context sensitive ",
+      "visual information is organized according to a design standard ",
+      "b and d "
+    ],
+    "answer": "E. b and d"
+  },
+  {
+    "question": "5. If past interactive models have created certain user expectations it is not generally good to make changes to the model.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. Which model depicts the profile of the end users of a computer system?",
+    "options": [
+      "design model ",
+      "implementation model ",
+      "user model ",
+      "user's model "
+    ],
+    "answer": "C. user model"
+  },
+  {
+    "question": "7. Which model depicts the image of a system that an end user creates in his or her head?",
+    "options": [
+      "design model ",
+      "user model ",
+      "system model ",
+      "system perception "
+    ],
+    "answer": "D. system perception"
+  },
+  {
+    "question": "8. Which model depicts the look and feel of the user interface along with all supporting information?",
+    "options": [
+      "implementation model ",
+      "user model ",
+      "user's model ",
+      "system perception "
+    ],
+    "answer": "A. implementation model"
+  },
+  {
+    "question": "9. Which of these framework activities is not normally associated with the user interface design processes?",
+    "options": [
+      "cost estimation ",
+      "interface construction ",
+      "interface validation ",
+      "user and task analysis "
+    ],
+    "answer": "A. cost estimation"
+  },
+  {
+    "question": "10. Which approach(es) to user task analysis can be useful in user interface design?",
+    "options": [
+      "have users indicate their preferences on questionnaires ",
+      "rely on the judgement of experienced programmers ",
+      "study existing computer-based solutions ",
+      "observe users performing tasks manually ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "11. Object-oriented analysis techniques can be used to identify and refine user task objects and actions without any need to refer to the user voice.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. The computer's display capabilities are the primary determinant of the order in which user interface design activities are completed.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. It is sometimes possible that the interface designer is constrained by environmental factors that mitigate against ease of use for many users",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "14. One means of defining user interface objects and actions is to conduct a grammatical parse of the user scenario.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. Interface design patterns typically include a complete component-level design (design classes, attributes, operations, and interfaces).",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "16. Several common design issues surface for almost every user interface including",
+    "options": [
+      "adaptive user profiles ",
+      "error handling ",
+      "resolution of graphics displays ",
+      "system response time ",
+      "b and d "
+    ],
+    "answer": "E. b and d"
+  },
+  {
+    "question": "17. It is more important to capture the user\u2019s attention with flashy features than ergonomically sound screen layouts when building a WebApp.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "18. Several usability measures can be collected while observing users interacting with a computer system including",
+    "options": [
+      "down time for the application ",
+      "number of user errors ",
+      "software reliability ",
+      "time spent looking at help materials ",
+      "b and d "
+    ],
+    "answer": "E. b and d"
+  },
+  {
+    "question": "1. Which of the following is not one of the elements of a design pattern?",
+    "options": ["context ", "environment ", "problem ", "solution "],
+    "answer": "B. environment"
+  },
+  {
+    "question": "2. RubberNecking is an example of a classic generative pattern.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. A frame work is a reusable mini-architecture that serves as a foundation which other design patterns can be applied?",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "4. Finding patterns built by others that address design problems is often more difficult that recognizing patterns in the application to be built.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. A pattern language",
+    "options": [
+      "encompasses a collection of patterns ",
+      "is implemented using hypertext ",
+      "resembles the structure of natural languages ",
+      "None of the above "
+    ],
+    "answer": "A. encompasses a collection of patterns"
+  },
+  {
+    "question": "6. The concepts and techniques discussed for ___________ can be used in the conjunction with a pattern-based approach.",
+    "options": [
+      "Architectural design ",
+      "Component-level design ",
+      "User interface design ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "7. It is important to reduce the coupling among design patterns so that they can be treated as independent entities",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "8. Real life design solutions may not always lend themselves to a top-down approach.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Which of the following problem types are used to label columns in a pattern organizing table?",
+    "options": [
+      "Business ",
+      "Context ",
+      "Database ",
+      "Infrastructure ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "10. Most mistakes in pattern-based design can be avoided by judicious use of review techniques.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. Before choosing an architectural design pattern it must be assessed for its appropriateness to the application and overall architectural style.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "12. Unlike architectural patterns, component-level design patterns may be applied to solve subproblems without regard to system context.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. Most user interface design patterns fall with in one of ____ categories of patterns.",
+    "options": ["5 ", "10 ", "25 ", "100 "],
+    "answer": "B. 10"
+  },
+  {
+    "question": "14. WebApp design patterns can be classified by considering which of the dimensions listed below?",
+    "options": [
+      "Aesthetics ",
+      "Design focus ",
+      "Granularity ",
+      "Usability ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "15. Which of the following are levels of design focus that can be used to categorize WebApp patterns?",
+    "options": [
+      "Behavioral patterns ",
+      "Functional patterns ",
+      "Layout patterns ",
+      "Navigation patterns ",
+      "b and d "
+    ],
+    "answer": "E. b and d"
+  },
+  {
+    "question": "16. Which of the levels of granularity that can be used to describe WebApp patterns?",
+    "options": [
+      "Architectural patterns ",
+      "Component patterns ",
+      "Design patterns ",
+      "Interactions patterns ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "17. Mobile app user interface patterns can be represented as a collection of best of breed screen images.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Which of the following characteristics should not be used to assess the quality of a WebApp?",
+    "options": [
+      "aesthetics ",
+      "reliability ",
+      "maintainability ",
+      "usability "
+    ],
+    "answer": "A. aesthetics"
+  },
+  {
+    "question": "2. Which of the following are design goals for every WebApp?",
+    "options": [
+      "Simplicity ",
+      "Consistency ",
+      "Navigability ",
+      "Visual appeal ",
+      "All of the above. "
+    ],
+    "answer": "E. All of the above."
+  },
+  {
+    "question": "3. Which of the following not part of the design pyramid for WebE design?",
+    "options": [
+      "Architectural design ",
+      "Business case design ",
+      "Content design ",
+      "Navigation design "
+    ],
+    "answer": "B. Business case design"
+  },
+  {
+    "question": "4. With WebApps content is everything, a poorly defined user interface will be quickly overlooked by frequent users.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. Which of these are WebApp interaction mechanisms?",
+    "options": [
+      "Graphic icons ",
+      "Graphic images ",
+      "Navigation menus ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "6. Screen layout design has several widely accepted standards based on human factors research",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. Graphic design considers every aspect of the look and feel of a WebApp.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. Content design is conducted by",
+    "options": [
+      "Copywriters and graphic designer ",
+      "Web engineers ",
+      "both a and b ",
+      "none of the above "
+    ],
+    "answer": "C. both a and b"
+  },
+  {
+    "question": "9. Content objects have both information attributes defined during analysis and implementation specific attributes specified during design.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "10. Content objects are not normally chunked into Web pages until the implementation activities begin.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "11. Content architecture and WebApp architecture are pretty much the same thing for many WebApps?",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Which of the following is not one of the content architectural structures used by web engineers?",
+    "options": ["linear ", "grid ", "hierarchical ", "parallel "],
+    "answer": "D. parallel"
+  },
+  {
+    "question": "13. MVC is a three layer architecture that contains a",
+    "options": [
+      "machine, view, content objects ",
+      "model, view, and content objects ",
+      "model, view, and controller ",
+      "machine, view, controller "
+    ],
+    "answer": "C. model, view, and controller"
+  },
+  {
+    "question": "14. Web navigational design involves creating a semantic navigational unit for each goal associated with each defined user role",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. To allow the user to feel in control of a WebApp, it is a good idea to mix both horizontal and vertical navigation mechanisms on the same page.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "16. Component level design for WebApps is very similar to component level design for other software delivery environments.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "17. Which of these is not one of the design activities associated with object-oriented hypermedia design?",
+    "options": [
+      "abstract interface design ",
+      "conceptual design ",
+      "content design ",
+      "navigational design "
+    ],
+    "answer": "C. content design"
+  },
+  {
+    "question": "18. UML does not have any representation schemas that are useful in building WebApp design models",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. MobileApps must be designed take intermittent connectivity outages",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "2. Modern electronics allow developers to ignore the power demands made by a MobileApp.",
+    "options": ["True ", " False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. A MobileApp is assessed for usability and accessibility before beginning the next increment begins.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "4. Which of the following characteristics should not be used to assess the quality of a MobileApp?",
+    "options": [
+      "aesthetics ",
+      "reliability ",
+      "maintainability ",
+      "usability "
+    ],
+    "answer": "A. aesthetics"
+  },
+  {
+    "question": "5. Quality function deployment is not necessary when implementing MobileApp user stories?",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. Using highly adaptive contextual interfaces is a good way to deal with device limitations like screen size.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Which of the following are common MobileApp design mistakes.",
+    "options": [
+      "Inconsistency ",
+      "Interoperability ",
+      "Lean design ",
+      "Overdesigning ",
+      "a and d "
+    ],
+    "answer": "E. a and d"
+  },
+  {
+    "question": "8. It is better to multiple short pages than long scrolling forms when implementing mobile device user interfaces.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "9. Java is the best programming language to use when you want to create portable MobileApps",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "10. Service computing allows you to avoid the need to integrate service source code into the mobile device client.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. The most important MobileApp architecture decision whether to build a thin or fat mobile client.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Variation control in the context of software engineering involves controlling variation in the",
+    "options": [
+      "process applied ",
+      "resources expended ",
+      "product quality attributes ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "2. There is no need to assess customer satisfaction when trying to determine the quality of a piece of software.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. A key concept of quality control is that all work products",
+    "options": [
+      "are delivered on time and under budget ",
+      "have complete documentation ",
+      "have measurable specifications for process outputs ",
+      "are thoroughly tested before delivery to the customer "
+    ],
+    "answer": "C. have measurable specifications for process outputs"
+  },
+  {
+    "question": "4. Quality costs may be divided into costs associated with",
+    "options": [
+      "prevention, appraisal, and failure ",
+      "people, process, and product ",
+      "customers, developers, and maintenance ",
+      "all of the above "
+    ],
+    "answer": "A. prevention, appraisal, and failure"
+  },
+  {
+    "question": "5. Poka-yoke devices are mechanisms that lead to the",
+    "options": [
+      "creation of quality processes with minimal resources ",
+      "determining causes of software defects ",
+      "prevention of potential quality problems ",
+      "rapid detection of quality problems introduced ",
+      "both c and d "
+    ],
+    "answer": "E. both c and d"
+  },
+  {
+    "question": "6. Quality of conformance focuses on the degree to which the implementation of a design meets its requirements and performance goals",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Which of the following is not one of the attributes of software quality?",
+    "options": [
+      "Adds value for developers and users ",
+      "Effective software process creates infrastructure ",
+      "Removes need to consider performance issues ",
+      "Useful products satisfy stakeholder requirements "
+    ],
+    "answer": "C. Removes need to consider performance issues"
+  },
+  {
+    "question": "8. Product quality can only be assessed by measuring hard quality factors.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Many software metrics can only be measured indirectly.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "10. Which of the following are ISO 9126 software quality factors?",
+    "options": [
+      "Functionality ",
+      "Portability ",
+      "Reliability ",
+      "Visual appeal ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "11. Developers need to create a collection of targeted questions to asses each quality factor.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "12. Software metrics represent direct measures of some manifestation of quality.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. The quality dilemma might be summarized as choosing between building things quickly or building things correctly.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "14. Good enough software delivers high quality software functions along with specialized functions that contain known bugs.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. Which of the following is likely to be the most expensive cost of quality?",
+    "options": [
+      "Appraisal costs ",
+      "External failure costs ",
+      "Internal failure costs ",
+      "Prevention costs "
+    ],
+    "answer": "B. External failure costs"
+  },
+  {
+    "question": "16. Poor quality leads to software risks that can become serious?",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "17. When a system fails to deliver required functions it is because the customer changes requirements?",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "18. Developers must start focusing on quality during the design phase in order to build secure systems.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "19. Which of the following management decisions have the potential to impact software quality?",
+    "options": [
+      "Estimation decisions ",
+      "Risk-oriented decisions ",
+      "Scheduling decisions ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "20. The project plan should include explicit techniques for _______ and _______ management?",
+    "options": ["change ", "cost ", "error ", "quality ", "a and d "],
+    "answer": "E. a and d"
+  },
+  {
+    "question": "21. Quality control encompasses a set of software engineering actions that help to ensure that each work product meets its quality goals",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "22. The goal of quality assurance to insure that a software project is error free.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. The purpose of software reviews is to uncover errors and defects in work products so they can be removed before moving on to the next phase of development.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "2. In general the earlier a software defect is discovered and corrected the less costly to the overall project budget.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. Defect amplification models can be used to illustrate the costs associated with using software from its initial deployment to its retirement",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Review metrics can be used to assess the efficacy of each review activity.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. Defect density can be estimated for any software engineering work product.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. Agile software developers are aware that software reviews always take time without saving any.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. The level of review formality is determined by which of the following?",
+    "options": [
+      "amount of preparation ",
+      "reviewer follow-up ",
+      "size of project budget ",
+      "structure of review ",
+      "a, b, d "
+    ],
+    "answer": "E. a, b, d"
+  },
+  {
+    "question": "8. An informal review may consist of which of the following?",
+    "options": [
+      "casual meeting ",
+      "desk check ",
+      "inspection ",
+      "pair programming ",
+      "a and b "
+    ],
+    "answer": "E. a and b"
+  },
+  {
+    "question": "9. Which of the following are objectives for formal technical reviews?",
+    "options": [
+      "allow senior staff members to correct errors ",
+      "assess programmer productivity ",
+      "determining who introduced an error into a program ",
+      "uncover errors in software work products "
+    ],
+    "answer": "D. uncover errors in software work products"
+  },
+  {
+    "question": "10. At the end of a formal technical review all attendees can decide to",
+    "options": [
+      "accept the work product without modification ",
+      "modify the work product and continue the review ",
+      "reject the product due to stylistic discrepancies ",
+      "reject the product due to severe errors ",
+      "a and d "
+    ],
+    "answer": "E. a and d"
+  },
+  {
+    "question": "11. A review summary report answers which three questions?",
+    "options": [
+      "terminate project, replace producer, request a time extension ",
+      "what defects were found, what caused defects, who was responsible ",
+      "what was reviewed, who reviewed it, what were the findings ",
+      "none of the above "
+    ],
+    "answer": "C. what was reviewed, who reviewed it, what were the findings"
+  },
+  {
+    "question": "12. In any type of technical review, the focus of the review is on the product and not the producer",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. Sample driven reviews only make sense for very small software development projects.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. Software quality might be defined as conformance to explicitly stated requirements and standards, nothing more and nothing less.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. People who perform software quality assurance must look at the software from the customer's perspective.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. The elements of software quality assurance consist of reviews, audits, and testing.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Which of these activities is not one of the activities recommended to be performed by an independent SQA group?",
+    "options": [
+      "prepare SQA plan for the project ",
+      "review software engineering activities to verify process compliance ",
+      "report any evidence of noncompliance to senior management ",
+      "serve as the sole test team for any software produced "
+    ],
+    "answer": "D. serve as the sole test team for any software produced"
+  },
+  {
+    "question": "5. Metrics can be used to indicate the relative strength of a software quality attribute.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. Attempts to apply mathematical proof to demonstrate that a program conforms to its specifications are doomed to failure.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. Statistical quality assurance involves",
+    "options": [
+      "using sampling in place of exhaustive testing of software ",
+      "surveying customers to find out their opinions about product quality ",
+      "tracing each defect to its underlying cause, isolating the \"vital few\" causes, and moving to correct them ",
+      "tracing each defect to its underlying causes and using the Pareto principle to correct each problem found "
+    ],
+    "answer": "C. tracing each defect to its underlying cause, isolating the \"vital few\" causes, and moving to correct them"
+  },
+  {
+    "question": "8. Six Sigma methodology defines three core steps.",
+    "options": [
+      "analyze, improve, control ",
+      "analyze, design, verify ",
+      "define, measure, analyze ",
+      "define, measure, control "
+    ],
+    "answer": "C. define, measure, analyze"
+  },
+  {
+    "question": "9. Software reliability problems can almost always be traced to",
+    "options": [
+      "errors in accuracy ",
+      "errors in design ",
+      "errors in implementation ",
+      "errors in operation ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "10. Software safety is a quality assurance activity that focuses on hazards that",
+    "options": [
+      "affect the reliability of a software component ",
+      "may cause an entire system to fail ",
+      "may result from user input errors ",
+      "prevent profitable marketing of the final product "
+    ],
+    "answer": "B. may cause an entire system to fail"
+  },
+  {
+    "question": "11. The ISO quality assurance standard that applies to software engineering is",
+    "options": ["ISO 9000 ", "ISO 9001 ", "ISO 9002 ", "ISO 9003 "],
+    "answer": "B. ISO 9001"
+  },
+  {
+    "question": "12. Which of the following is not a section in the standard for SQA plans recommended by IEEE?",
+    "options": ["budget ", "documentation ", "reviews and audits ", "test "],
+    "answer": "A. budget"
+  },
+  {
+    "question": "1. Comparison testing is typically done to test two competing products as part of customer market analysis prior to product release",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. Test case design \"in the small\" for OO software is driven by the algorithmic detail of the individual operations.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. Deep structure testing is not designed to",
+    "options": [
+      "examine object behaviors ",
+      "exercise communication mechanisms ",
+      "exercise object dependencies ",
+      "exercise structure observable by the user "
+    ],
+    "answer": "D. exercise structure observable by the user"
+  },
+  {
+    "question": "4. In software quality assurance work there is no difference between software verification and software validation.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. The best reason for using Independent software test teams is that",
+    "options": [
+      "software developers do not need to do any testing ",
+      "strangers will test the software mercilessly ",
+      "testers do not get involved with the project until testing begins ",
+      "the conflicts of interest between developers and testers is reduced "
+    ],
+    "answer": "D. the conflicts of interest between developers and testers is reduced"
+  },
+  {
+    "question": "6. What is the normal order of activities in which traditional software testing is organized?",
+    "options": [
+      "integration testing, system testing, unit testing, validation testing. ",
+      "unit testing, validation testing, system testing, integration testing ",
+      "unit testing, integration testing, validation testing, system testing ",
+      "validation testing, system testing, integration testing, unit testing "
+    ],
+    "answer": "C. unit testing, integration testing, validation testing, system testing"
+  },
+  {
+    "question": "7. By collecting software metrics and making use of existing software reliability models it is possible to develop meaningful guidelines for determining when software testing is done.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. Which of the following strategic issues needs to be addressed in a successful software testing process?",
+    "options": [
+      "conduct formal technical reviews prior to testing ",
+      "specify requirements in a quantifiable manner ",
+      "use independent test teams ",
+      "wait till code is written prior to writing the test plan ",
+      "a and b "
+    ],
+    "answer": "E. a and b"
+  },
+  {
+    "question": "9. Which of the following need to be assessed during unit testing?",
+    "options": [
+      "algorithmic performance ",
+      "code stability ",
+      "error handling ",
+      "execution paths ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "10. Units and stubs are not needed for unit testing because the modules are tested independently of one another.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "11. Top-down integration testing has as it's major advantage(s) that",
+    "options": [
+      "low level modules never need testing ",
+      "major decision points are tested early ",
+      "no drivers need to be written ",
+      "no stubs need to be written ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "12. Bottom-up integration testing has as it's major advantage(s) that",
+    "options": [
+      "major decision points are tested early ",
+      "no drivers need to be written ",
+      "no stubs need to be written ",
+      "regression testing is not required "
+    ],
+    "answer": "C. no stubs need to be written"
+  },
+  {
+    "question": "13. Regression testing should be a normal part of integration testing because as a new module is added to the system new",
+    "options": [
+      "control logic is invoked ",
+      "data flow paths are established ",
+      "drivers require testing ",
+      "all of the above ",
+      "a and b "
+    ],
+    "answer": "E. a and b"
+  },
+  {
+    "question": "14. Smoke testing might best be described as",
+    "options": [
+      "bulletproofing shrink-wrapped software ",
+      "rolling integration testing ",
+      "testing that hides implementation errors ",
+      "unit testing for small programs "
+    ],
+    "answer": "B. rolling integration testing"
+  },
+  {
+    "question": "15. When testing object-oriented software it is important to test each class operation separately as part of the unit testing process",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "16. The OO testing integration strategy involves testing",
+    "options": [
+      "groups of classes that collaborate or communicate in some way ",
+      "single operations as they are added to the evolving class implementation ",
+      "operator programs derived from use-case scenarios ",
+      "none of the above "
+    ],
+    "answer": "A. groups of classes that collaborate or communicate in some way"
+  },
+  {
+    "question": "17. Since many WebApps evolve continuously, the testing process must be ongoing as well.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "18. Testing MobileApps is not different than testing WebApps.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "19. The focus of validation testing is to uncover places that s user will be able to observe failure of the software to conform to its requirements.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "20. Software validation is achieved through a series of tests performed by the user once the software is deployed in his or her work environment.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "21. Configuration reviews are not needed if regression testing has been rigorously applied during software integration.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "22. Acceptance tests are normally conducted by the",
+    "options": ["developer ", "end users ", "test team ", "systems engineers "],
+    "answer": "B. end users"
+  },
+  {
+    "question": "23. Recovery testing is a system test that forces the software to fail in a variety of ways and verifies that software is able to continue execution without interruption.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "24. Security testing attempts to verify that protection mechanisms built into a system protect it from improper penetration.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "25. Stress testing examines the pressures placed on the user during system use in extreme environments.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "26. Performance testing is only important for real-time or embedded systems.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "27. Debugging is not testing, but always occurs as a consequence of testing.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "28. Which of the following is an approach to debugging?",
+    "options": [
+      "backtracking ",
+      "brute force ",
+      "cause elimination ",
+      "code restructuring ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "1. With thorough testing it is possible to remove all defects from a program prior to delivery to the customer",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. Which of the following are characteristics of testable software?",
+    "options": [
+      "observability ",
+      "simplicity ",
+      "stability ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "3. The testing technique that requires devising test cases to demonstrate that each program function is operational is called",
+    "options": [
+      "black-box testing ",
+      "glass-box testing ",
+      "grey-box testing ",
+      "white-box testing "
+    ],
+    "answer": "A. black-box testing"
+  },
+  {
+    "question": "4. The testing technique that requires devising test cases to exercise the internal logic of a software module is called",
+    "options": [
+      "behavioral testing ",
+      "black-box testing ",
+      "grey-box testing ",
+      "white-box testing "
+    ],
+    "answer": "D. white-box testing"
+  },
+  {
+    "question": "5. What types of errors are missed by black-box testing and can be uncovered by white-box testing?",
+    "options": [
+      "behavioral errors ",
+      "logic errors ",
+      "performance errors ",
+      "typographical errors ",
+      "b and d "
+    ],
+    "answer": "E. b and d"
+  },
+  {
+    "question": "6. Program flow graphs are identical to program flowcharts.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. The cyclomatic complexity metric provides the designer with information regarding the number of",
+    "options": [
+      "cycles in the program ",
+      "errors in the program ",
+      "independent logic paths in the program ",
+      "statements in the program "
+    ],
+    "answer": "C. independent logic paths in the program"
+  },
+  {
+    "question": "8. The cyclomatic complexity of a program can be computed directly from a PDL representation of an algorithm without drawing a program flow graph.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Condition testing is a control structure testing technique where the criteria used to design test cases is that they",
+    "options": [
+      "rely on basis path testing ",
+      "exercise the logical conditions in a program module ",
+      "select test paths based on the locations and uses of variables ",
+      "focus on testing the validity of loop constructs "
+    ],
+    "answer": "B. exercise the logical conditions in a program module"
+  },
+  {
+    "question": "10. Data flow testing is a control structure testing technique where the criteria used to design test cases is that they",
+    "options": [
+      "rely on basis path testing ",
+      "exercise the logical conditions in a program module ",
+      "select test paths based on the locations and uses of variables ",
+      "focus on testing the validity of loop constructs "
+    ],
+    "answer": "C. select test paths based on the locations and uses of variables"
+  },
+  {
+    "question": "11. Loop testing is a control structure testing technique where the criteria used to design test cases is that they",
+    "options": [
+      "rely basis path testing ",
+      "exercise the logical conditions in a program module ",
+      "select test paths based on the locations and uses of variables ",
+      "focus on testing the validity of loop constructs "
+    ],
+    "answer": "D. focus on testing the validity of loop constructs"
+  },
+  {
+    "question": "12. Black-box testing attempts to find errors in which of the following categories",
+    "options": [
+      "incorrect or missing functions ",
+      "interface errors ",
+      "performance errors ",
+      "none of the above ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "13. Graph-based testing methods can only be used for object-oriented systems",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "14. Equivalence testing divides the input domain into classes of data from which test cases can be derived to reduce the total number of test cases that must be developed.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. Boundary value analysis can only be used to do white-box testing.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "16. Orthogonal array testing enables the test designer to maximize the coverage of the test cases devised for relatively small input domains.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "17. Test derived from behavioral class models should be based on the",
+    "options": [
+      "data flow diagram ",
+      "object-relation diagram ",
+      "state transition diagram ",
+      "use-case diagram "
+    ],
+    "answer": "C. state transition diagram"
+  },
+  {
+    "question": "18. Documentation does not need to be tested.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "19. Real-time applications add a new and potentially difficult element to the testing mix",
+    "options": ["performance ", "reliability ", "security ", "time "],
+    "answer": "D. time"
+  },
+  {
+    "question": "1. Testing OO class operations is made more difficult by",
+    "options": [
+      "Encapsulation ",
+      "Inheritance ",
+      "Polymorphism ",
+      "Both b and c "
+    ],
+    "answer": "D. Both b and c"
+  },
+  {
+    "question": "2. It is not possible to test object-oriented software without including error discovery techniques applied to the system OOA and OOD models",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. The correctness of the OOA and OOD model is accomplished using formal technical reviews by the software quality assurance team.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. The consistency of object-oriented models may be judged by reviewing the CRC card model.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. Test case design for OO software is driven by the algorithmic detail of the individual operations.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. Integration testing of object-oriented software can be accomplished by which of the following testing strategies?",
+    "options": [
+      "Cluster testing ",
+      "Glass-box testing ",
+      "Thread-based testing ",
+      "Use-based testing ",
+      "a, c, d "
+    ],
+    "answer": "E. a, c, d"
+  },
+  {
+    "question": "7. Validation of object-oriented software focuses on user visible actions and outputs from the system.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. Encapsulation of attributes and operations inside objects makes it easy to obtain object state information during testing",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "9. Use-cases can provide useful input into the design of black-box and state-based tests of OO software.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "10. Fault-based testing is best reserved for",
+    "options": [
+      "conventional software testing ",
+      "operations and classes that are critical or suspect ",
+      "use-case validation ",
+      "white-box testing of operator algorithms "
+    ],
+    "answer": "B. operations and classes that are critical or suspect"
+  },
+  {
+    "question": "11. Scenario-based testing",
+    "options": [
+      "concentrates on actor and software interaction ",
+      "misses errors in specifications ",
+      "misses errors in subsystem interactions ",
+      "both a and b "
+    ],
+    "answer": "A. concentrates on actor and software interaction"
+  },
+  {
+    "question": "12. Random order tests are conducted to exercise different class instance life histories.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. Which of these techniques is not useful for partition testing at the class level",
+    "options": [
+      "attribute-based partitioning ",
+      "category-based partitioning ",
+      "equivalence class partitioning ",
+      "state-based partitioning "
+    ],
+    "answer": "C. equivalence class partitioning"
+  },
+  {
+    "question": "14. Multiple class testing is too complex to be tested using random test cases.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "15. The state model can be used to derive test cases based on the dynamic behavior of an object-oriented system.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Which of the following is not one of the dimensions of quality used to assess a WebApp?",
+    "options": ["Content ", "Maintainability ", "Navigability ", "Usability "],
+    "answer": "B. Maintainability"
+  },
+  {
+    "question": "2. WebApps require special testing methodologies because WebApp errors have several unique characteristics",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. Since WebnApps evolve continuously, the testing process is an on-going activity, conducted by the Web support staff using regression tests",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "4. Test planning is not used in WebApp testing.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. As the WebApp architecture is constructed which types of testing are used as integration tests?",
+    "options": [
+      "Component testing ",
+      "Content testing ",
+      "Navigation testing ",
+      "Usability testing ",
+      "both a and c "
+    ],
+    "answer": "E. both a and c"
+  },
+  {
+    "question": "6. Which of the following is not one of the objectives of WebApp content testing?",
+    "options": [
+      "Find organizational or structure errors ",
+      "Identify linking errors ",
+      "Uncover semantic errors ",
+      "Uncover syntactic errors "
+    ],
+    "answer": "B. Identify linking errors"
+  },
+  {
+    "question": "7. Database testing is very rarely a part of WebApp content testing.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "8. The overall strategy for interface testing is to uncover errors",
+    "options": [
+      "in navigation semantics ",
+      "in overall usabililty ",
+      "related to specific interface mechanisms ",
+      "both a and c "
+    ],
+    "answer": "D. both a and c"
+  },
+  {
+    "question": "9. Which of the following is not a WebApp interface mechanism?",
+    "options": ["Browser ", "Cookies ", "Forms ", "Links "],
+    "answer": "C. Forms"
+  },
+  {
+    "question": "10. When testing WebApp interface semantics, each use-case is used as input for the design of a testing sequence.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. Usability tests should be designed and executed by intended users for a given WebApp.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. WebApp compatibility testing is conducted to be sure that the user model for usage scenario matched the user category assigned to a given user",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. Which test case design technique(s) are appropriate for WebApp component-level testing?",
+    "options": [
+      "Boundary value analysis ",
+      "Equivalence partitioning ",
+      "Path testing ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "14. The purpose of WebApp navigation syntactic testing is to ensure the correct appearance of each navigation mechanism",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "15. Both Web engineers and non-technical users conduct navigation semantics testing for WebApps.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "16. Which of following is not one of the elements that need to be considered when constructing WebApp server-side configuration tests?",
+    "options": [
+      "Browser compatibility ",
+      "Database software integration ",
+      "Operating system compatibility ",
+      "System security measures "
+    ],
+    "answer": "A. Browser compatibility"
+  },
+  {
+    "question": "17. To design client-side configuration tests each user category is assessed to reduce the number of configuration variables to a manageable number",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "18. Which of the following is not a testable WebApp security element?",
+    "options": ["Authentication ", "Encryption ", "Firewalls ", "Penetration "],
+    "answer": "D. Penetration"
+  },
+  {
+    "question": "19. WebApp performance tests are designed to",
+    "options": [
+      "asses WebApp usability ",
+      "evaluate page loading times ",
+      "simulate real-world loading situations ",
+      "test network connectivity "
+    ],
+    "answer": "C. simulate real-world loading situations"
+  },
+  {
+    "question": "20. Load testing involves determining the input of which 3 variables?",
+    "options": ["N, T, D ", "N, T, P ", "T, D, P ", "N, D, P "],
+    "answer": "A. N, T, D"
+  },
+  {
+    "question": "21. WebApp stress testing is a continuation load testing.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. MobileApps require special testing methodologies because of concerns associated using them in diverse network environments.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "2. Since MobileApp users are attracted to new technologies they are very tolerant of errors and testing effort can be reduced.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. Designing test cases directly from user stories increase the likelihood of developing effective test cases in a timely manner",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "4. Automated testing tools eliminate the need to do regression testing for MobileApps.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. A weighted device platform matrix helps to prioritize test cases.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. Part of the reason for stress testing is to ensure that the MobileApp exhibits graceful degradation on failure",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Which of the following are reasons for testing in the wild?",
+    "options": [
+      "Assessing the impact of production environments ",
+      "Failing to create test cases ",
+      "Not understanding user demographics ",
+      "Testing for variable performance on user devices ",
+      "both a and d "
+    ],
+    "answer": "E. both a and d"
+  },
+  {
+    "question": "8. When testing the quality of user interaction the focus should be on user visible interaction mechanisms.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Which of that following add to the difficulty of testing MobileApp gestures?",
+    "options": [
+      "Automatic tool use is difficult ",
+      "Creating functions to simulate events ",
+      "Screen size variation ",
+      "Using paper prototypes ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "10. Continuous speech recognition techniques have eliminated the need for key entry in MobileApps.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "11. Predictive technologies are often used to help speed up virtual keyboard inpu on mobile devices.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "12. The ability of a MobileApp to handle alerts without disrupting user workflow must be tested in the production environment?",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. The Testing across borders is not necessary each MobileApp is developed for use in a specific country.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "14. Which of the following are issues that make real-time testing difficult?",
+    "options": [
+      "Limited device processing capacity ",
+      "Power limitations on the device ",
+      "Unique mobile network infrastructures ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "15. Device emulators eliminate the need to test MobileApps on actual devices.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. When analyzing security requirements focus in system assets with the highest value and greatest exposure",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "2. It is possible to have a safe system that is not secure.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. Individuals rarely expose their personal information to others on social media networks",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Wireless networks require the trust and cooperation between nodes that can be exploited by malicious programs?",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. Cloud computing is has greater levels of security that other web data repositories.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. The security concerns remain an obstacle to implementing the vision implied by the Internet of Things .",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Security and usability requirements are often in conflict with each other.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. Which of following is not one of the elements of a security model?",
+    "options": [
+      "Criminal background checks ",
+      "External interface requirements ",
+      "Rules of operation ",
+      "Security policy objectives "
+    ],
+    "answer": "A. Criminal background checks"
+  },
+  {
+    "question": "9. Security metrics and measures need to assess which of these properties?",
+    "options": [
+      "Dependability ",
+      "Survivability ",
+      "Trustworthiness ",
+      "All of the above "
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "question": "10. Security correctness checks should be included which of the following activities?",
+    "options": [
+      "Audits ",
+      "Deployment ",
+      "Inspections ",
+      "Testing ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "11. Which is not one of the elements of a security case?",
+    "options": ["Arguments ", "Bug reports ", "Claims ", "Evidence "],
+    "answer": "B. Bug reports"
+  },
+  {
+    "question": "12. Security assurance and risk identification must be included in the schedule and budget if they are to be taken seriously.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. Threat analysis is not needed for conventional software applications.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "14. An incident response plan spells out the actions to be carried out by each stakeholder in response to specific attacks.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Statistical use testing relies on probability distributions based on",
+    "options": [
+      "mixture of control structures used in the program ",
+      "order in which the module execute ",
+      "the way software will actually be used ",
+      "user interface design standards "
+    ],
+    "answer": "C. the way software will actually be used"
+  },
+  {
+    "question": "2. Certification of an increment is complete once it has passed the formal verification process.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. Which of the following models is part of the cleanroom certification process?",
+    "options": [
+      "component model ",
+      "sampling model ",
+      "both a and b ",
+      "none of the above "
+    ],
+    "answer": "C. both a and b"
+  },
+  {
+    "question": "4. A data invariant is a set of conditions that are true during the execution of any function.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "5. In some formal languages, stored data that the system accesses and alters is called a(n)",
+    "options": ["attribute ", "data structure ", "state ", "variant "],
+    "answer": "C. state"
+  },
+  {
+    "question": "6. In formal methods work, an action that reads or writes data to a state is called a(n)",
+    "options": ["actor ", "event ", "invariant ", "operation "],
+    "answer": "D. operation"
+  },
+  {
+    "question": "7. What defines the circumstances in which a particular operation is valid?",
+    "options": ["data invariant ", "precondition ", "postcondition ", "state "],
+    "answer": "B. precondition"
+  },
+  {
+    "question": "8. Using formal methods eliminates the need to write natural language commentary in the specification document.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "9. A common notational convention in many formal methods is to write the variable with a prime in the postcondition for an operator",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "10. Which of these are components of a formal specification language?",
+    "options": [
+      "Semantics that defines the objects used to describe system ",
+      "Set of relations defining the object rules ",
+      "Syntax that defining the notation ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "11. OCL makes use of several specialized mathematical characters",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. The Z language makes use of schemas to describe system states in terms of the values assigned to system variables.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. The cleanroom strategy is based on the ________ software process model.",
+    "options": ["evolutionary ", "incremental ", "revolutionary ", "spiral "],
+    "answer": "B. incremental"
+  },
+  {
+    "question": "14. The cleanroom strategy relies on",
+    "options": [
+      "exhaustive testing ",
+      "extensive unit testing of all modules ",
+      "tests that exercise the software as it is really used ",
+      "white box testing strategies "
+    ],
+    "answer": "C. tests that exercise the software as it is really used"
+  },
+  {
+    "question": "15. Use of formal program correctness proofs as part of the cleanroom process eliminates the need do any testing for software defects",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "16. In cleanroom software engineering a \u201cbox\u201d encapsulates some system aspect at a particular level of detail.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "17. This box specification describes an abstraction, stimuli, and response",
+    "options": ["black box ", "clear box ", "state box ", "white box "],
+    "answer": "A. black box"
+  },
+  {
+    "question": "18. This box specification describes the architectural design for some system component",
+    "options": ["black box ", "clear box ", "state box ", "white box "],
+    "answer": "C. state box"
+  },
+  {
+    "question": "19. This box specification is closely aligned with procedural design and structured programming.",
+    "options": ["black box ", "clear box ", "state box ", "white box "],
+    "answer": "B. clear box"
+  },
+  {
+    "question": "20. In cleanroom software engineering the structured programming approach is used to",
+    "options": [
+      "refine data design ",
+      "refine function design ",
+      "refine usage test cases ",
+      "both a and b "
+    ],
+    "answer": "D. both a and b"
+  },
+  {
+    "question": "21. By using only structured programming constructs as you create a procedural design, you make the work of proving design correctness much easier.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "22. Which of the following is not an advantage of using rigorous correctness verification of each refinement of the clear box design?",
+    "options": [
+      "improves performance of code ",
+      "produces better code than unit testing ",
+      "reduces verification effort ",
+      "results in near zero defect levels "
+    ],
+    "answer": "A. improves performance of code"
+  },
+  {
+    "question": "1. Which of these are valid software configuration items?",
+    "options": [
+      "case tools ",
+      "documentation ",
+      "executable programs ",
+      "test data ",
+      "All of the above. "
+    ],
+    "answer": "E. All of the above."
+  },
+  {
+    "question": "2. Which of the following is not considered one of the four important elements that should exist when a configuration management system is developed?",
+    "options": [
+      "component elements ",
+      "human elements ",
+      "process elements ",
+      "validation elements "
+    ],
+    "answer": "D. validation elements"
+  },
+  {
+    "question": "3. Once a software engineering work product becomes a baseline it cannot be changed again.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Which configuration objects would not typically be found in the project database?",
+    "options": [
+      "design specification ",
+      "marketing data ",
+      "organizational structure description ",
+      "test plans ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "5. Modern software engineering practices usually attempt to maintain SCI\u2019s in a project database or repository.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. A data repository meta model is used to determine how",
+    "options": [
+      "information is stored in the repository ",
+      "well data integrity can be maintained ",
+      "easily the existing model can be extended ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "7. Many data repository requirements are the same as those for a typical database application.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "8. The ability to track relationships and changes to configuration objects is one of the most important features of the SCM repository.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Which of the following tasks is not part of software configuration management?",
+    "options": [
+      "change control ",
+      "reporting ",
+      "statistical quality control ",
+      "version control "
+    ],
+    "answer": "C. statistical quality control"
+  },
+  {
+    "question": "10. A basic configuration object is a __________ created by a software engineer during some phase of the software development process",
+    "options": [
+      "program data structure ",
+      "hardware driver ",
+      "unit of information ",
+      "all of the above "
+    ],
+    "answer": "C. unit of information"
+  },
+  {
+    "question": "11. Version control systems establish a change set as part of their primary functionality.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Change control is not necessary if a development group is making use of an automated project database tool.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. When software configuration management is a formal activity the software configuration audit is conducted by the",
+    "options": [
+      "development team ",
+      "quality assurance group ",
+      "senior managers ",
+      "testing specialists "
+    ],
+    "answer": "B. quality assurance group"
+  },
+  {
+    "question": "14. The primary purpose of configuration status reporting is to",
+    "options": [
+      "allow revision of project schedule and cost estimates by project managers ",
+      "evaluate the performance of software developers and organizations ",
+      "make sure that change information is communicated to all affected parties ",
+      "none of the above "
+    ],
+    "answer": "C. make sure that change information is communicated to all affected parties"
+  },
+  {
+    "question": "15. Configuration issues that need to be considered when developing Web and Mobile Apps include:",
+    "options": ["content ", "cost ", "people ", "politics ", "a, b, c "],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "16. Web and Mobile App configuration objects can be managed in much the same way as conventional software configuration objects except for:",
+    "options": [
+      "content items ",
+      "functional items ",
+      "graphic items ",
+      "user items "
+    ],
+    "answer": "A. content items"
+  },
+  {
+    "question": "17. Content management establishes a process by which Web content is rendered on the user\u2019s display screen.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "18. Change management for Web and Mobile Apps is best handled in agile manner.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "19. One reason that version control is difficult for WebApps is that in an uncontrolled environment, you can have multiple authors making changes to the same files from multiple locations without any realizing it.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "20. Requiring developers to check Web configuration items in and out and sending affected stakeholders e-mail messages automatically are good ways to deal with configuration auditing and reporting for WebApps.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. Conformance to implicit requirements and customer expectations has no place in modern software quality assurance work",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. Which of the following is not one of three software product aspects addressed by McCall's software quality factors?",
+    "options": [
+      "ability to undergo change ",
+      "adaptability to new environments ",
+      "operational characteristics ",
+      "production costs and scheduling "
+    ],
+    "answer": "D. production costs and scheduling"
+  },
+  {
+    "question": "3. The ISO 9126 quality standards for computer software are useful because they lend themselves to direct measurement of software attributes.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Most testing metrics actually focus on the process of testing rather than the technical characteristics of the tests themselves.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. Testing effort can also be estimated using metrics derived from cylcomatic complexity.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "6. Most technical software metrics described in this chapter represent indirect measures software attributes that are useful in the quantitative assessment of software quality.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Which these are reasons for using technical product measures during software development?",
+    "options": [
+      "large body of scientific evidence supports their use ",
+      "provides software engineers with an objective mechanism for assessing software quality ",
+      "they allow all quality software quality information to be expressed unambiguously as a single number ",
+      "all of the above "
+    ],
+    "answer": "B. provides software engineers with an objective mechanism for assessing software quality"
+  },
+  {
+    "question": "8. Which measurement activity is missing from the list below?\n\nFormulation\nCollection\nAnalysis\nInterpretation\n",
+    "options": ["design ", "feedback ", "measurement ", "quantification "],
+    "answer": "B. feedback"
+  },
+  {
+    "question": "9. The Goal/Question/Metric (GQM) paradigm was developed as a technique for assigning blame for software failures.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "10. One of the most important attributes for a software product metric is that it should be",
+    "options": [
+      "easy to compute ",
+      "qualitative in nature ",
+      "reliable over time ",
+      "widely applicable "
+    ],
+    "answer": "A. easy to compute"
+  },
+  {
+    "question": "11. In many cases metrics for one model may be used in later software engineering activities (e.g. design metrics may be used in test planning)",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "12. The function point metric is an example of metric that can be used to assist with technical decision-making based on the analysis model information, without making use of historical project data",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "13. The specification metrics proposed by Davis address which two characteristics of the software requirements?",
+    "options": [
+      "functionality and performance ",
+      "performance and completeness ",
+      "specificity and completeness ",
+      "specificity and functionality "
+    ],
+    "answer": "C. specificity and completeness"
+  },
+  {
+    "question": "14. Architectural design metrics focus on",
+    "options": [
+      "architectural structure ",
+      "data structural relationships ",
+      "internal module complexity ",
+      "module effectiveness ",
+      "a and d "
+    ],
+    "answer": "E. a and d"
+  },
+  {
+    "question": "15. Which of the following is not a measurable characteristic of an object-oriented design?",
+    "options": ["completeness ", "efficiency ", "size ", "volatility "],
+    "answer": "B. efficiency"
+  },
+  {
+    "question": "16. The depth of inheritance tree (DIT) metric can give an OO software designer a reading on the",
+    "options": [
+      "attributes required for each class ",
+      "completion time required for system implementation ",
+      "complexity of the class hierarchy ",
+      "level of object reusability achieved "
+    ],
+    "answer": "B. completion time required for system implementation"
+  },
+  {
+    "question": "17. Because the class is the dominant unit in OO systems there is no call for the definition of class-oriented metrics.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "18. If you encounter a class with a large responsibility (large class size or CS value) you should consider",
+    "options": [
+      "making it a base class ",
+      "making it a subclass ",
+      "partitioning the class ",
+      "starting a new class hierarchy "
+    ],
+    "answer": "C. partitioning the class"
+  },
+  {
+    "question": "19. Component-level metrics include measures of",
+    "options": [
+      "complexity ",
+      "coupling ",
+      "module cohesion ",
+      "performance ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "20. Because the class is the dominant unit in OO systems very few metrics have been proposed for operations that reside within a class.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "21. Interface metrics are use to assess the complexity of the module's input and output relationships with external devices.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "22. Most WebApps can be easily characterized by judicious use of widely recognized suites of software metrics?",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "23. Halstead's source code metrics are based on the number of",
+    "options": [
+      "modules in the program ",
+      "operands in the program ",
+      "operators in the program ",
+      "volume elements in the program ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "24. Software testing metrics fall into two broad categories",
+    "options": [
+      "metrics that focus on defect removal effectiveness ",
+      "metrics that focus on test coverage ",
+      "metrics that estimate the duration of the testing process ",
+      "metrics that predict the number of test cases required ",
+      "b and d "
+    ],
+    "answer": "E. b and d"
+  },
+  {
+    "question": "25. The IEEE software maturity index (SMI) is used to provide a measure of the",
+    "options": [
+      "maintainability of a software product based on its availability ",
+      "relative age of a software product being considered for retirement ",
+      "reliability of a software product following regression testing ",
+      "stability of a software product as it is modified during maintenance "
+    ],
+    "answer": "D. stability of a software product as it is modified during maintenance"
+  },
+  {
+    "question": "1. Effective software project management focuses on",
+    "options": [
+      "people, performance, payoff, product ",
+      "people, product, performance, process ",
+      "people, product, process, project ",
+      "people, process, payoff, product "
+    ],
+    "answer": "C. people, product, process, project"
+  },
+  {
+    "question": "2. Organizations that achieve high levels of maturity in people management have a higher likelihood of implementing effective software engineering processes",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "3. The first step in project planning is to",
+    "options": [
+      "determine the budget. ",
+      "select a team organizational model. ",
+      "determine the project constraints ",
+      "establish the objectives and scope "
+    ],
+    "answer": "D. establish the objectives and scope"
+  },
+  {
+    "question": "4. Process framework activities are populated with",
+    "options": [
+      "milestones ",
+      "work products ",
+      "QA points ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "5. Project management is less important for modern software development since most projects are successful and completed on time",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. Which of the following is not considered a stakeholder in the software process?",
+    "options": [
+      "customers ",
+      "end-users ",
+      "project managers ",
+      "sales people "
+    ],
+    "answer": "D. sales people"
+  },
+  {
+    "question": "7. The best person to hire as a project team leader is the most competent software engineering practitioner available",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "8. The best project team organizational model to use when tackling extremely complex problems is the",
+    "options": [
+      "closed paradigm ",
+      "open paradigm ",
+      "random paradigm ",
+      "synchronous paradigm "
+    ],
+    "answer": "B. open paradigm"
+  },
+  {
+    "question": "9. Which factors should be considered in choosing the organizational structure for a software team?",
+    "options": [
+      "degree of communication desired ",
+      "predicted size of the resulting program ",
+      "rigidity of the delivery date ",
+      "size of the project budget ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "10. One of the best ways to avoid frustration during the software development process is to",
+    "options": [
+      "give team members more control over process and technical decisions ",
+      "give team members less control over process and technical decisions. ",
+      "hide bad news from the project team members until things improve. ",
+      "reward programmers based on their productivity. "
+    ],
+    "answer": "A. give team members more control over process and technical decisions"
+  },
+  {
+    "question": "11. Small agile teams have no place in modern software development.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Which of these software characteristics is not a factor contributing to project coordination difficulties?",
+    "options": ["interoperability ", "performance ", "scale ", "uncertainty "],
+    "answer": "B. performance"
+  },
+  {
+    "question": "13. Which of these software characteristics are used to determine the scope of a software project?",
+    "options": [
+      "context, lines of code, function ",
+      "context, function, communication requirements ",
+      "information objectives, function, performance ",
+      "communications requirements, performance, information objectives "
+    ],
+    "answer": "C. information objectives, function, performance"
+  },
+  {
+    "question": "14. The major areas of problem decomposition during the project scoping activity are the",
+    "options": [
+      "customer workflow ",
+      "functionality to be delivered ",
+      "process used to deliver functionality ",
+      "software process model ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "15. Product and process decomposition occurs simultaneously as the project plan evolves.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "16. When can selected common process framework activities be omitted during process decomposition?",
+    "options": [
+      "when the project is extremely small in size ",
+      "any time the software is mission critical ",
+      "rapid prototyping does not require their use ",
+      "never the activities are invariant "
+    ],
+    "answer": "D. never the activities are invariant"
+  },
+  {
+    "question": "17. How does a software project manager need to act to minimize the risk of software failure?",
+    "options": [
+      "double the project team size ",
+      "request a large budget ",
+      "start on the right foot ",
+      "track progress ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "18. The W5HH principle contains which of the following questions?",
+    "options": [
+      "Why is the system being developed? ",
+      "What will be done by whom? ",
+      "Where are they organizationally located? ",
+      "How much of each resource is required? ",
+      "a, c d "
+    ],
+    "answer": "E. a, c d"
+  },
+  {
+    "question": "19. Which of these are critical practices for performance-based project management?",
+    "options": [
+      "assessing product usability ",
+      "defect tracking against quality targets ",
+      "empirical cost estimation ",
+      "formal risk management ",
+      "b, c, d "
+    ],
+    "answer": "E. b, c, d"
+  },
+  {
+    "question": "1. The terms measure, measurement, and metric all share the same definition according to the IEEE Standard Glossary of Software Engineering Terms.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. Which of these are valid reasons for measuring software processes, products, and resources?",
+    "options": [
+      "to characterize them ",
+      "to evaluate them ",
+      "to price them ",
+      "to improve them ",
+      "a, b, d "
+    ],
+    "answer": "E. a, b, d"
+  },
+  {
+    "question": "3. Process indicators enable a software project manager to",
+    "options": [
+      "assess the status of an on-going project ",
+      "track potential risks ",
+      "adjust work flow or tasks ",
+      "none of the above "
+    ],
+    "answer": "D. none of the above"
+  },
+  {
+    "question": "4. Public metrics are used",
+    "options": [
+      "to evaluate the performance of software development teams. ",
+      "to appraise the performance of individual team members. ",
+      "to make strategic changes to the software process. ",
+      "to make tactical changes during a software project. ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "5. Which of the following items are not measured by software project metrics?",
+    "options": ["inputs ", "markets ", "outputs ", "results "],
+    "answer": "B. markets"
+  },
+  {
+    "question": "6. Software quality and functionality must be measured indirectly.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Which of following are advantages of using LOC (lines of code) as a size-oriented metric?",
+    "options": [
+      "LOC is easily computed. ",
+      "LOC is a language dependent measure. ",
+      "LOC is a language independent measure. ",
+      "LOC can be computed before a design is completed. "
+    ],
+    "answer": "A. LOC is easily computed."
+  },
+  {
+    "question": "8. Which of the following are advantages of using function points (FP) as a measure of the functionality delivered by a software application?",
+    "options": [
+      "FP is easily computed ",
+      "FP is a language dependent measure. ",
+      "FP is a language independent measure ",
+      "FP can be computed before a design is completed ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "9. There is no need to reconcile LOC and FP measures since each in meaningful in its own right as a project measure.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "10. Object-Oriented project measures may be combined with historical project data to provide metrics that aid in project estimation",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "11. Use-Case oriented metrics are computed directly from UML diagrams they are often used as normalization measures.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Which of the following is not a measure that can be collected from a Web application project?",
+    "options": [
+      "Customization index ",
+      "Number of dynamic objects ",
+      "Number of internal page links ",
+      "Number of static web pages "
+    ],
+    "answer": "A. Customization index"
+  },
+  {
+    "question": "13. Which of the following software quality factors is most likely to be affected by radical changes to computing architectures?",
+    "options": ["operation ", "transition ", "revision ", "none of the above "],
+    "answer": "D. none of the above"
+  },
+  {
+    "question": "14. Which of the following provide useful measures of software quality?",
+    "options": [
+      "correctness, performance, integrity, usability ",
+      "reliability, maintainability, integrity, sales ",
+      "correctness, maintainability, size, satisfaction ",
+      "correctness, maintainability, integrity, usability "
+    ],
+    "answer": "D. correctness, maintainability, integrity, usability"
+  },
+  {
+    "question": "15. A software quality metric that can be used at both the process and project levels is defect removal efficiency (DRE).",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "16. Why is it important to measure the process of software engineering and software it produces?",
+    "options": [
+      "It is really not necessary unless the project is extremely complex. ",
+      "To determine costs and allow a profit margin to be set. ",
+      "To determine whether a software group is improving or not. ",
+      "To make software engineering more like other engineering processes "
+    ],
+    "answer": "C. To determine whether a software group is improving or not."
+  },
+  {
+    "question": "17. To be an effective aid in process improvement the baseline data used must be:",
+    "options": [
+      "based on reasonable guestimates from past projects ",
+      "measured consistently across projects ",
+      "drawn from similar projects ",
+      "based on all previously completed projects ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "18. Baseline data must be collected in an on-going manner and cannot be computed by formal study of historical project data",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "19. Small software organizations are not likely to see any economic return from establishing software metrics program",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "20. The software metrics chosen by an organization are driven by the business or technical goals an organization wishes to accomplish.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. The only reason an estimate may be unreliable is lack of experience with the application on the part of the estimator.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "2. The hardware required for most computer-based systems is more costly to purchase than the software.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. Since project estimates are not completely reliable, they can be ignored once a software development project begins",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. The objective of software project planing is to",
+    "options": [
+      "convince the customer that a project is feasible. ",
+      "make use of historical project data. ",
+      "enable a manager to make reasonable estimates of cost and schedule ",
+      "determine the probable profit margin prior to bidding on a project. "
+    ],
+    "answer": "C. enable a manager to make reasonable estimates of cost and schedule"
+  },
+  {
+    "question": "5. The project scope is defined as a means of bounding the system",
+    "options": [
+      "functionality ",
+      "performance ",
+      "costs ",
+      "schedule ",
+      "a and b "
+    ],
+    "answer": "E. a and b"
+  },
+  {
+    "question": "6. Software feasibility is based on which of the following",
+    "options": [
+      "business and marketing concerns ",
+      "scope, constraints, market ",
+      "technology, finance, time, resources ",
+      "technical prowess of the developers "
+    ],
+    "answer": "C. technology, finance, time, resources"
+  },
+  {
+    "question": "7. The number of people required for a software project is determined",
+    "options": [
+      "after an estimate of the development effort is made. ",
+      "by the size of the project budget. ",
+      "from an assessment of the technical complexity of the system. ",
+      "all of the above "
+    ],
+    "answer": "A. after an estimate of the development effort is made."
+  },
+  {
+    "question": "8. Reusable software components must be",
+    "options": [
+      "catalogued for easy reference ",
+      "standardized for easy application. ",
+      "validated for easy integration. ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "9. The software engineering environment (SEE) consists of which of the following?",
+    "options": [
+      "customers ",
+      "developers ",
+      "hardware platforms ",
+      "software tools ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "10. Software project estimation techniques can be broadly classified under which of the following headings?",
+    "options": [
+      "automated processes ",
+      "decomposition techniques ",
+      "empirical models ",
+      "regression models ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "11. The size estimate for a software product to be built must be based on a direct measure like LOC.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Problem-based estimation is based on problem decomposition which focuses on",
+    "options": [
+      "information domain values ",
+      "project schedule ",
+      "software functions ",
+      "process activities ",
+      "a and c "
+    ],
+    "answer": "E. a and c"
+  },
+  {
+    "question": "13. LOC-based estimation techniques require problem decomposition based on",
+    "options": [
+      "information domain values ",
+      "project schedule ",
+      "software functions ",
+      "process activities "
+    ],
+    "answer": "C. software functions"
+  },
+  {
+    "question": "14. FP-based estimation techniques require problem decomposition based on",
+    "options": [
+      "information domain values ",
+      "project schedule ",
+      "software functions ",
+      "process activities "
+    ],
+    "answer": "A. information domain values"
+  },
+  {
+    "question": "15. Process-based estimation techniques require problem decomposition based on",
+    "options": [
+      "information domain values ",
+      "project schedule ",
+      "software functions ",
+      "process activities ",
+      "c and d "
+    ],
+    "answer": "E. c and d"
+  },
+  {
+    "question": "16. Unlike a LOC or function point each person\u2019s \u201cuse-case\u201d is exactly the same size",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "17. When agreement between estimates is poor the cause may often be traced to inadequately defined project scope or inappropriate productivity data.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "18. Empirical estimation models are typically based on",
+    "options": [
+      "expert judgement based on past project experiences ",
+      "refinement of expected value estimation ",
+      "regression models derived from historical project data ",
+      "trial and error determination of the parameters and coefficients "
+    ],
+    "answer": "C. regression models derived from historical project data"
+  },
+  {
+    "question": "19. COCOMO II is an example of a suite of modern empirical estimation models that require sizing information expressed as:",
+    "options": [
+      "function points ",
+      "lines of code ",
+      "object points ",
+      "any of the above "
+    ],
+    "answer": "D. any of the above"
+  },
+  {
+    "question": "20. Putnam's software equation is a dynamic empirical model that has two independent parameters: a size estimate and an indication of project duration in calendar months or years.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "21. Function points are of no user in developing estimates for object-oriented software.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "22. In agile software development estimation techniques focus on the time required to complete each",
+    "options": ["increment ", "scenario ", "task ", "use-case "],
+    "answer": "A. increment"
+  },
+  {
+    "question": "23. It is possible to use a modified function point technique to develop estimates for Web applications.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "24. Using a statistical technique like decision tree analysis can provide some assistance in sorting out the true costs associated with the make-buy decision.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "25. Outsourcing always provides a simple means of acquiring software at lower cost than onsite development of the same product.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. For purposes of determining the major engineering tasks and distributing them on the project time line, the project manger should assume that the process model used is",
+    "options": [
+      "linear ",
+      "sequential ",
+      "iterative evolutionary ",
+      "any of the above "
+    ],
+    "answer": "D. any of the above"
+  },
+  {
+    "question": "2. The only means accomplishing task refinement is to make use of a process design language approach.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "3. Software projects are inevitably late and there is nothing that can explain why",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. It is unethical to undertake a project that you know in advance cannot be completed by the customer's deadline, unless you inform the customer of the risk and establish a project plan that can deliver the needed system incrementally",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "5. Which of the following is not one of the guiding principles of software project scheduling:",
+    "options": [
+      "compartmentalization ",
+      "market assessment ",
+      "time allocation ",
+      "effort validation "
+    ],
+    "answer": "B. market assessment"
+  },
+  {
+    "question": "6. Doubling the size of your software project team is guaranteed to cut project completion time in half.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. The software equation can be used to show that by extending the project deadline slightly",
+    "options": [
+      "fewer people are required ",
+      "you are guaranteed to meet the deadline ",
+      "more lines of code can be produced ",
+      "none of the above "
+    ],
+    "answer": "A. fewer people are required"
+  },
+  {
+    "question": "8. The 40-20-40 rule suggests that the least of amount of development effort be spent on",
+    "options": [
+      "estimation and planning ",
+      "analysis and design ",
+      "coding ",
+      "testing "
+    ],
+    "answer": "C. coding"
+  },
+  {
+    "question": "9. A task set is a collection of",
+    "options": [
+      "engineering work tasks, milestones, deliverables ",
+      "task assignments, cost estimates, metrics ",
+      "milestones, deliverables, metrics ",
+      "responsibilities, milestones, documents "
+    ],
+    "answer": "A. engineering work tasks, milestones, deliverables"
+  },
+  {
+    "question": "10. The task (activity) network is a useful mechanism for",
+    "options": [
+      "computing the overall effort estimate ",
+      "detecting intertask dependencies ",
+      "determining the critical path ",
+      "specifying the task set to the customer ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "11. Tasks that lie on the critical path in a task network may be completed in any order as long as the project is on schedule.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "12. Two tools for computing critical path and project completion times from activity networks are",
+    "options": ["CPM ", "DRE ", "FP ", "PERT ", "a and d "],
+    "answer": "E. a and d"
+  },
+  {
+    "question": "13. Timeline charts assist project managers in determining what tasks will be conducted at a given point in time.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "14. The best indicator of progress on a software project is the completion",
+    "options": [
+      "of a defined engineering activity task ",
+      "of a successful budget review meeting on time ",
+      "and successful review of a defined software work product ",
+      "and successful acceptance of project prototype by the customer "
+    ],
+    "answer": "C. and successful review of a defined software work product"
+  },
+  {
+    "question": "15. Since iterative process model work best for object-oriented projects it is impossible to determine whether an increment will be completed on time or not.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "16. WebApp projects only require the creation of a macro schedule.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "17. The purpose of earned value analysis is to",
+    "options": [
+      "determine how to compensate developers based on their productivity ",
+      "provide a quantitative means of assessing software project progress ",
+      "provide a qualitative means of assessing software project progress ",
+      "set the price point for a software product based on development effort "
+    ],
+    "answer": "B. provide a quantitative means of assessing software project progress"
+  },
+  {
+    "question": "18. Earned value analysis is a technique that allows managers to take corrective action before a project crisis develops",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "1. A risk referent level is a risk component value (performance, cost, support, schedule) or combination of values that cause a project to be terminated.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "2. An effective risk management plan will need to address which of the following issues?",
+    "options": [
+      "risk avoidance ",
+      "risk monitoring ",
+      "contingency planning ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "3. Proactive risk management is sometimes described as fire fighting",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. Software risk always involves two characteristics",
+    "options": [
+      "fire fighting and crisis management ",
+      "known and unknown risks ",
+      "uncertainty and loss ",
+      "staffing and budget "
+    ],
+    "answer": "C. uncertainty and loss"
+  },
+  {
+    "question": "5. Three categories of risks are",
+    "options": [
+      "business risks, personnel risks, budget risks ",
+      "project risks, technical risks, business risks ",
+      "planning risks, technical risks, personnel risks ",
+      "management risks, technical risks, design risks "
+    ],
+    "answer": "B. project risks, technical risks, business risks"
+  },
+  {
+    "question": "6. Generic risks require far more attention than product-specific risks.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "7. A risk item checklist would contain known and predictable risks from which of these categories?",
+    "options": [
+      "product size ",
+      "development environment ",
+      "staff size ",
+      "process definition ",
+      "all of the above "
+    ],
+    "answer": "E. all of the above"
+  },
+  {
+    "question": "8. Questions that should be asked to assess the overall project risk include:",
+    "options": [
+      "Have top managers formally committed to support the project? ",
+      "Are end-users committed to the project and proposed system being built? ",
+      "Are requirement fully understood by development team and customers? ",
+      "Does the proposed budget have time allocated for marketing? ",
+      "a, b, c "
+    ],
+    "answer": "E. a, b, c"
+  },
+  {
+    "question": "9. Software risk impact assessment should focus on consequences affecting",
+    "options": [
+      "planning, resources, cost, schedule ",
+      "marketability, cost, personnel ",
+      "business, technology, process ",
+      "performance, support, cost, schedule "
+    ],
+    "answer": "D. performance, support, cost, schedule"
+  },
+  {
+    "question": "10. Risk projection attempts to rate each risk in two ways",
+    "options": [
+      "likelihood and cost ",
+      "likelihood and impact ",
+      "likelihood and consequences ",
+      "likelihood and exposure "
+    ],
+    "answer": "C. likelihood and consequences"
+  },
+  {
+    "question": "11. Risk tables are sorted by",
+    "options": [
+      "probability and cost ",
+      "probability and impact ",
+      "probability and consequences ",
+      "probability and exposure "
+    ],
+    "answer": "B. probability and impact"
+  },
+  {
+    "question": "12. Individual team members can make their own estimate for a risk probability and then develop a consensus value.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "13. Which factors affect the probable consequences likely if a risk does occur?",
+    "options": [
+      "risk cost ",
+      "risk timing ",
+      "risk scope ",
+      "risk resources ",
+      "b and c "
+    ],
+    "answer": "E. b and c"
+  },
+  {
+    "question": "14. The reason for refining risks is to break them into smaller units having different consequences.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "15. Effective risk management plan needs to address which of these issues?",
+    "options": [
+      "risk avoidance ",
+      "risk monitoring ",
+      "contingency planning ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "16. Risk monitoring involves watching the risk indicators defined for the project and not determining the effectiveness of the risk mitigation steps themselves.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "17. Hazard analysis focuses on the identification and assessment of potential hazards that can cause",
+    "options": [
+      "project termination ",
+      "schedule slippage ",
+      "cost overruns ",
+      "an entire system to fail "
+    ],
+    "answer": "D. an entire system to fail"
+  },
+  {
+    "question": "18. Risk information sheets (RIS) are never an acceptable substitute for a full risk mitigation, monitoring, and management (RMMM) plan.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "1. A new __________ is defined when major changes have been made to one or more configuration objects.",
+    "options": ["entity ", "item ", "variant ", "version "],
+    "answer": "D. version"
+  },
+  {
+    "question": "2. WebApp configuration objects can be managed in much the same way as conventional software configuration objects except for:",
+    "options": [
+      "content items ",
+      "functional items ",
+      "graphic items ",
+      "user items "
+    ],
+    "answer": "A. content items"
+  },
+  {
+    "question": "3. SCI standards take a formal view and do not address guidelines for applying change management in agile environments.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "4. How much effort is typically expended by a software organization on software maintenance?",
+    "options": ["20 percent ", "40 percent ", "60 percent ", "80 percent "],
+    "answer": "C. 60 percent"
+  },
+  {
+    "question": "5. Software supportability is not concerned with either the provision of hardware or infrastructure.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "6. Business process reengineering is often accompanied by software reengineering.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "7. Which of the following is not an example of a business process?",
+    "options": [
+      "designing a new product ",
+      "hiring an employee ",
+      "purchasing services ",
+      "testing software "
+    ],
+    "answer": "D. testing software"
+  },
+  {
+    "question": "8. Business process reengineering does not have a start or end, it is an evolutionary process.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "9. Which of the following activities is not part of the software reengineering process model?",
+    "options": [
+      "forward engineering ",
+      "inventory analysis ",
+      "prototyping ",
+      "reverse engineering "
+    ],
+    "answer": "C. prototyping"
+  },
+  {
+    "question": "10. Software reengineering process model includes restructuring activities for which of the following work items?",
+    "options": ["code ", "documentation ", "data ", "all of the above "],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "11. Which of the following is not an issue to consider when reverse engineering?",
+    "options": [
+      "abstraction level ",
+      "completeness ",
+      "connectivity ",
+      "directionality "
+    ],
+    "answer": "C. connectivity"
+  },
+  {
+    "question": "12. Reverse engineering of data focuses on",
+    "options": [
+      "database structures ",
+      "internal data structures ",
+      "both a and b ",
+      "none of the above "
+    ],
+    "answer": "C. both a and b"
+  },
+  {
+    "question": "13. The first reverse engineering activity involves seeking to understand",
+    "options": [
+      "data ",
+      "processing ",
+      "user interfaces ",
+      "none of the above "
+    ],
+    "answer": "B. processing"
+  },
+  {
+    "question": "14. Reverse engineering should proceed the reengineering of any user interface.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "15. Which of these benefits can be achieved when software is restructured?",
+    "options": [
+      "higher quality programs ",
+      "reduced maintenance effort ",
+      "software easier to test ",
+      "all of the above "
+    ],
+    "answer": "D. all of the above"
+  },
+  {
+    "question": "16. Code restructuring is a good example of software reengineering",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "17. Which of these is not an example of data restructuring?",
+    "options": [
+      "data analysis ",
+      "data name rationalization ",
+      "data record standardization ",
+      "none of the above "
+    ],
+    "answer": "A. data analysis"
+  },
+  {
+    "question": "18. Forward engineering is not necessary if an existing software product is producing the correct output.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "19. Reengineering client/server systems begins with a thorough analysis of the business environment that encompasses the existing computing system",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  },
+  {
+    "question": "20. The only time reengineering enters into work with a legacy system is when it components will be implemented as objects.",
+    "options": ["True ", "False "],
+    "answer": "B. False"
+  },
+  {
+    "question": "21. The cost benefits derived from reengineering are realized largely due to decreased maintenance and support costs for the new software product.",
+    "options": ["True ", "False "],
+    "answer": "A. True"
+  }
+]

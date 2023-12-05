@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Question and Answer Search</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 20px;
+      }
+      #searchInput {
+        width: 300px;
+        padding: 5px;
+        font-size: 16px;
+      }
+      #result {
+        margin-top: 20px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Question and Answer Search</h1>
+    <label for="searchInput">Enter your question:</label>
+    <input type="text" id="searchInput" placeholder="Type your question..." />
+    <button onclick="searchQuestion()">Search</button>
+
+    <div id="result"></div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
