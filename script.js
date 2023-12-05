@@ -9,28 +9,20 @@ function searchQuestion() {
     var matchedQuestion = findMatchingQuestion(userInput, jsonData);
 
     if (matchedQuestion) {
+        var question = matchedQuestion.question;
         var answer = matchedQuestion.answer;
         var options = matchedQuestion.options;
-        console.log(options)
-        // output = `<strong>Answer:</strong> ${answer}<br> <strong>Options:</strong><br><ul>`
 
-        // for (let i = 0; options.length; i++) {
-        //     output += `<li>${options[i]}</li>`
-        // }
-        // output += `</ul>`
-        // console.log(output)
-
-        // resultElement.innerHTML = output
-        displayResult(answer, options);
+        displayResult(answer, options, question);
     } else {
         resultElement.innerText =
             "Sorry, no answer found for that question.";
     }
 }
 
-function displayResult(answer, options) {
+function displayResult(answer, options, question) {
     var resultElement = document.getElementById("result");
-    resultElement.innerHTML = `<strong>Answer:</strong> ${answer}<br><br><strong>Options:</strong>`;
+    resultElement.innerHTML = `<strong>Question:</strong> ${question}<br><br><strong>Answer:</strong> ${answer}<br><br><strong>Options:</strong><br>`;
 
     var optionsList = document.createElement('ul');
 
